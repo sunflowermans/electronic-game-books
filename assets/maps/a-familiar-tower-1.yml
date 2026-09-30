@@ -1,1 +1,38 @@
-/home/chris/.rvm/gems/ruby-3.4.9/bundler/gems/scry-a-familiar-tower-ec108c7e4def/content/assets/maps/a-familiar-tower-1.yml
+width: 1413
+height: 1455
+regions:
+  - href: "#1c-reception"
+    title: "1C. Reception"
+    points:
+      - [701, 184]
+      - [966, 253]
+      - [1100, 370]
+      - [1212, 651]
+      - [1174, 883]
+      - [952, 1111]
+      - [711, 1159]
+      - [552, 1144]
+      - [302, 982]
+      - [208, 702]
+      - [168, 261]
+      - [156, 27]
+      - [327, 22]
+      - [326, 268]
+  - href: "#1b-front-door"
+    title: "1B. Front Door"
+    points:
+      - [597, 1163]
+      - [806, 1163]
+      - [866, 1184]
+      - [936, 1350]
+      - [915, 1440]
+      - [454, 1424]
+      - [498, 1262]
+  - href: "#1a-tabletop-water"
+    title: "1A. Tabletop Water"
+    points:
+      - [901, 1182]
+      - [967, 1380]
+      - [1367, 1384]
+      - [1364, 888]
+      - [1166, 1001]

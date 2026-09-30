@@ -1,1 +1,43 @@
-/home/chris/.rvm/gems/ruby-3.4.9/bundler/gems/scry-a-familiar-tower-ec108c7e4def/content/assets/maps/a-familiar-tower-5.yml
+height: 1074
+width: 1100
+regions:
+  - href: "#5a-kitchen"
+    title: "5A. Kitchen"
+    points:
+      - [535, 1028]
+      - [400, 1003]
+      - [295, 959]
+      - [220, 909]
+      - [173, 860]
+      - [103, 759]
+      - [53, 636]
+      - [54, 577]
+      - [53, 548]
+      - [531, 542]
+  - href: "#5c-albuss-den"
+    title: "5C. Albus's Den"
+    points:
+      - [935, 857]
+      - [854, 926]
+      - [701, 1006]
+      - [560, 1026]
+      - [562, 541]
+      - [1049, 534]
+      - [1042, 636]
+      - [998, 765]
+  - href: "#5b-bedroom"
+    title: "5B. Bedroom"
+    points:
+      - [1052, 515]
+      - [470, 518]
+      - [51, 521]
+      - [69, 385]
+      - [136, 251]
+      - [231, 156]
+      - [340, 91]
+      - [470, 54]
+      - [610, 53]
+      - [754, 90]
+      - [854, 148]
+      - [944, 229]
+      - [1013, 347]
