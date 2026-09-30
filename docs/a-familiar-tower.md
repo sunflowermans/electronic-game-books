@@ -1,0 +1,1 @@
+/home/chris/.rvm/gems/ruby-3.4.9/bundler/gems/scry-a-familiar-tower-ec108c7e4def/content/docs/a-familiar-tower.md
