@@ -33,3 +33,4 @@ plugins:
   - jekyll-image-links # hyperlinked maps
   - rpg-callouts # additional callout formatting options
   - dark-dungeons-theme # dark overlay for the default theme
+
