@@ -6,7 +6,9 @@ nav_order: 3
 
 
 
-The following adventure is available from [PlusOneExp](https://plusoneexp.com/products/a-familiar-tower): PDF + Zine | [DriveThruRPG](https://www.drivethrurpg.com/en/product/562829/a-familiar-tower?src=blog): PDF + Zine | [itch](https://directsun.itch.io/a-familiar-tower): PDF | As markdown (see below)
+The following adventure is available from...
+
+[PlusOneExp](https://plusoneexp.com/products/a-familiar-tower): PDF + Zine | [DriveThruRPG](https://www.drivethrurpg.com/en/product/562829/a-familiar-tower?src=jtg): PDF + Zine | [itch](https://directsun.itch.io/a-familiar-tower): PDF | As markdown (see below)
 
 # A Familiar Tower
 

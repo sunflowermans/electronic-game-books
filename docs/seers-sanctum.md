@@ -4,7 +4,12 @@ description: "An eye-opening adventure for low-level OSE characters."
 nav_order: 2
 ---
 
+The following adventure is available from...
+
+[PlusOneExp](https://plusoneexp.com/products/the-seers-sanctum): PDF + Zine | [DriveThruRPG](https://www.drivethrurpg.com/en/product/338472/puzzle-dungeon-the-seers-sanctum?src=jtg): PDF + Zine | [itch](https://directsun.itch.io/puzzle-dungeon-the-seers-sanctum): PDF | As markdown (see below)
+
 # Puzzle Dungeon: The Seers Sanctum
+
 {: .no_toc }
 
 ROLEPLAYING ADVENTURE FOR CHARACTER LEVELS 1 THROUGH 3  

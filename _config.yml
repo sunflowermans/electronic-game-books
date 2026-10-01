@@ -34,3 +34,5 @@ plugins:
   - rpg-callouts # additional callout formatting options
   - dark-dungeons-theme # dark overlay for the default theme
 
+#exclude:
+#  - /docs/ose-rules # exclude for faster local builds
