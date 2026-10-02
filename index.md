@@ -10,7 +10,7 @@ nav_exclude: true
 # Flip less. Play more.
 {: .fs-9 }
 
-👈 Games and rules, optimized for quick reference and play. Use as-is or build your own.
+Games and rules, optimized for quick reference and play. Use as-is or build your own.
 {: .fs-6 .fw-300 }
 
 ![Window Preview](/assets/images/window-preview-demo-2.png)
