@@ -16,6 +16,8 @@ ESCAPE ROOM ROLEPLAYING ADVENTURE FOR THIRD-LEVEL CHARACTERS
 
 Requires *[Old-School Essentials](/docs/ose-rules/)* to play.
 
+[Cairn version](https://cairn.puzzledungeon.com/a-familiar-tower-cairn/){: .btn .btn-red }
+
 © 2026 Directsun Games
 
 Version 1.1
