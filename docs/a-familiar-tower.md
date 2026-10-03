@@ -380,9 +380,9 @@ Setting fire to the wardrobe causes it to explode in one turn, destroying everyt
 
 <a href="/assets/images/a-familiar-tower/wardrobe_FPV.png" target="_blank"><img src="/assets/images/a-familiar-tower/wardrobe_FPV.png" style="float: right; margin:10px 0 10px 10px; max-width: 50%;"></a>
 
-**Dust-choked air shimmers crimson in the dark. 60' ahead, a blood-red broadsword dangles within a snarl of webs, its glow pulsing like a heartbeat.** Extracting the 4' [Bloodletter (p. 32)](#bloodletter-two-handed-sword-2) requires cutting it free from its sticky, shivering bonds. Disturbing the webs draws 1d3 [giant spiders (p. 31)](#spider-giant). 
+<span class="read-aloud">**Dust-choked air shimmers crimson in the dark. 60' ahead, a blood-red broadsword dangles within a snarl of webs, its glow pulsing like a heartbeat.**</span> Extracting the 4' [Bloodletter (p. 32)](#bloodletter-two-handed-sword-2) requires cutting it free from its sticky, shivering bonds. Disturbing the webs draws 1d3 [giant spiders (p. 31)](#spider-giant). 
 
-**To the left, a sheer precipice drops into a yawning abyss. Above the expanse, a tangled forest of colossal clothing hangs, swaying silently.** Silk shirts, fur capes, colorful bow ties, and patterned handkerchiefs drape above the precipice, all fit for a fanciful giant. The nearest garment—a green doublet—hangs 10' from the floor’s edge, its sleeve studded with oversized onyx buttons spaced like ladder rungs. Each turn spent searching the hanging outfits uncovers the next treasure in the list from [*5B. Bedroom* (p. 19)](#5b-bedroom). Climbing requires care—it’s a 250' drop to the bottom. Setting fire to the webs or clothing starts a raging inferno in
+<span class="read-aloud">**To the left, a sheer precipice drops into a yawning abyss. Above the expanse, a tangled forest of colossal clothing hangs, swaying silently.**</span> Silk shirts, fur capes, colorful bow ties, and patterned handkerchiefs drape above the precipice, all fit for a fanciful giant. The nearest garment—a green doublet—hangs 10' from the floor’s edge, its sleeve studded with oversized onyx buttons spaced like ladder rungs. Each turn spent searching the hanging outfits uncovers the next treasure in the list from [*5B. Bedroom* (p. 19)](#5b-bedroom). Climbing requires care—it’s a 250' drop to the bottom. Setting fire to the webs or clothing starts a raging inferno in
 the wardrobe. After 10 minutes, the [Exploding Dice (p. 33)](#exploding-dice) fall through their seared pants pocket and hit the ground rolling, destroying the wardrobe and everything inside.
 
 <a href="/assets/images/a-familiar-tower/open_wardrobe.png" target="_blank"><img src="/assets/images/a-familiar-tower/open_wardrobe.png" style=" margin: 0 0 10px 10px;"></a>
@@ -391,7 +391,7 @@ the wardrobe. After 10 minutes, the [Exploding Dice (p. 33)](#exploding-dice) fa
 
 ## 5C. Albus’s Den
 
-**Flickering braziers light a fetid den of scratch-posts with shag-covered platforms. From the highest perch, a sea-green marble gleams at the end of a dangling string.**
+<span class="read-aloud">**Flickering braziers light a fetid den of scratch-posts with shag-covered platforms. From the highest perch, a sea-green marble gleams at the end of a dangling string.**</span>
 
 If the party hasn’t yet encountered [Albus (p. 26)](#albus-the-cat-with-nine-eight-lives), he lies on his back near the top, batting the [sea-green quartz marble (p. 35)](#sea-green-quartz)—otherwise, there’s a 1-in-6 chance he slinks in each turn. 
 
@@ -446,9 +446,9 @@ For shrunken characters, climbing between locations on the kitty condo takes the
 
 > Distances measured relative to a party entering from [*2B. Transport Room* (p. 12)](#2b-transport-room).
 
-**Wet rock walls glitter in the brazier light. Coins of gold and silver spill from cake dishes and overflow from glass bowls. A fine woven rug with golden tassels hovers in the air, its surface piled high with coins and waiting for a rider. The air smells only of cold metal.** In sum, the vault holds 1,000gp, 70,000sp, and a [*Flying Carpet*](/docs/ose-rules/treasures/miscellaneous/flying-carpet/).
+<span class="read-aloud">**Wet rock walls glitter in the brazier light. Coins of gold and silver spill from cake dishes and overflow from glass bowls. A fine woven rug with golden tassels hovers in the air, its surface piled high with coins and waiting for a rider. The air smells only of cold metal.**</span> In sum, the vault holds 1,000gp, 70,000sp, and a [*Flying Carpet*](/docs/ose-rules/treasures/miscellaneous/flying-carpet/).
 
-**An iron wheel with spokes hangs mounted to a door hewn from the rock itself, rivulets of water streaming from the seams of the door.** With the wheel turned, gears and locks lurch within the rock, and the door bursts inward with the full force of water in the basin-table of [*4A. Model Room* (p. 16)](#4a-model-room). The combined efforts of three or more characters have a 1-in-6 chance to force the door closed again before the room becomes completely submerged. If the portal to [*2B. Transport Room* (p. 12)](#2b-transport-room) remains open, the tower fills with water in three turns. Characters have a 1-in-6 chance to close the door atop the dais in the transportation room before the force of the water makes it impossible. If the water is not drained, all drown.
+<span class="read-aloud">**An iron wheel with spokes hangs mounted to a door hewn from the rock itself, rivulets of water streaming from the seams of the door.**</span> With the wheel turned, gears and locks lurch within the rock, and the door bursts inward with the full force of water in the basin-table of [*4A. Model Room* (p. 16)](#4a-model-room). The combined efforts of three or more characters have a 1-in-6 chance to force the door closed again before the room becomes completely submerged. If the portal to [*2B. Transport Room* (p. 12)](#2b-transport-room) remains open, the tower fills with water in three turns. Characters have a 1-in-6 chance to close the door atop the dais in the transportation room before the force of the water makes it impossible. If the water is not drained, all drown.
 
 # Adventure Aftermath
 
