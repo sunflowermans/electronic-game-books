@@ -19,6 +19,23 @@ Games and rules, optimized for quick reference and play. Use as-is or build your
 
 Just The Games is a fast, interactive reference for running tabletop RPGs from your browser. It extends the [Just The Docs](https://github.com/just-the-docs/just-the-docs) theme to facilitate play.
 
+Go ahead, run a game tonight!
+
+<div style="display: flex; gap: 10px;">
+<div>
+  <a href="/docs/a-familiar-tower.html" style="flex: 1;">
+    <img src="/assets/images/covers/aft-cover.png" style="width: 100%;">
+<center>A Familiar Tower</center>
+</a>
+</div>
+  <div>
+  <a href="/docs/seers-sanctum.html" style="flex: 1;">
+    <img src="/assets/images/covers/seers-cover.png" style="width: 100%;">
+<center>The Seers Sanctum</center>
+</a>
+</div>
+</div>
+
 ## Features
 
 | d4     | Feature     |
@@ -34,18 +51,16 @@ All rules and adventures are written in simple Markdown, with support for more a
 
 The same extensions that power Just The Games can be used in any *Just the Docs* site. Like those used with [Cairn RPG](https://cairn.puzzledungeon.com/) or [The Designing Dungeons Course](https://dungeons.puzzledungeon.com). Click to see what they look like with the same plugins—and [play some games](https://cairn.puzzledungeon.com/adventures/first-party/)!
 
+<!-- <a href="https://cairn.puzzledungeon.com/adventures/first-party/cas-3/"><video autoplay loop muted playsinline style="max-width: 100%; height: auto;">
+  <source src="/assets/video/cairn-screencast.webm" type="video/webm">
+</video></a> -->
+
 <div style="display: flex; gap: 10px;">
 <div>
-  <a href="https://cairn.puzzledungeon.com" target="_blank" style="flex: 1;">
-    <img src="/assets/images/cairn-2.png" style="width: 100%;">
-  </a>
-<center>Cairn RPG</center>
-</div>
-  <div>
-  <a href="https://dungeons.puzzledungeon.com" target="_blank" style="flex: 1;">
-    <img src="/assets/images/designing-dungeons-2.png" style="width: 100%;">
-  </a>
-<center>Designing Dungeons Course</center>
+    <center><video autoplay loop muted playsinline style="max-width: 75%; height: auto;">
+  <source src="/assets/video/cairn-screencast.webm" type="video/webm">
+</video></center>
+<center><a href="https://cairn.puzzledungeon.com/adventures/first-party/cas-3/">The Feast of Tengy Wood (Cairn RPG)</a></center>
 </div>
 </div>
 
