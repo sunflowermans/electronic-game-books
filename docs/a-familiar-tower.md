@@ -4,8 +4,6 @@ description: "When the wizard's away, the cat will play..."
 nav_order: 3
 ---
 
-
-
 The following adventure is available from...
 
 [PlusOneExp](https://plusoneexp.com/products/a-familiar-tower): PDF + Zine | [DriveThruRPG](https://www.drivethrurpg.com/en/product/562829/a-familiar-tower?src=jtg): PDF + Zine | [itch](https://directsun.itch.io/a-familiar-tower): PDF | As markdown (see below)
@@ -125,9 +123,9 @@ The adventure begins with the party sailing to Tower Mer. After several hours’
 
 ## 1A. Tabletop Water
 
-***The sun and stars vanish from the sky, plunging all into darkness. The wind drags the stench of rotten fish across stagnant water. A soft green glow spotlights the double doors of a cylindrical stone tower.***
+<span class="read-aloud">**The sun and stars vanish from the sky, plunging all into darkness. The wind drags the stench of rotten fish across stagnant water. A soft green glow spotlights the double doors of a cylindrical stone tower.**</span>
 
-***Squalid water laps against the base of the tower just below the doors.*** Without a threshold or dock, the tower provides no easy means to moor a boat. Light reveals a window ledge 30' above, leading into [*4A. Model Room* (p. 16)](#4a-model-room). For those still outside the tower, light carried into the model room is magnified fiftyfold, illuminating the vast, sprawling version of the model room around them.
+<span class="read-aloud">**Squalid water laps against the base of the tower just below the doors.**</span> Without a threshold or dock, the tower provides no easy means to moor a boat. Light reveals a window ledge 30' above, leading into [*4A. Model Room* (p. 16)](#4a-model-room). For those still outside the tower, light carried into the model room is magnified fiftyfold, illuminating the vast, sprawling version of the model room around them.
 
 Those who travel 125' outwards from the tower meet the giant edge of the basin-table in [*4A. Model Room* (p. 16)](#4a-model-room), followed by a dark descent of 200' to the floor.
 
@@ -137,7 +135,7 @@ Agitating the water near the tower summons [Athena (p. 27)](#athena-the-fun-lovi
 
 ## 1B. Front Door
 
-***A brass goblin head hangs from the double doors, its mouth gripping a gleaming silver knocker ring set with a radiant emerald.*** The doors are magically locked.
+<span class="read-aloud">**A brass goblin head hangs from the double doors, its mouth gripping a gleaming silver knocker ring set with a radiant emerald.**</span> The doors are magically locked.
 
 Despite partial corrosion, Sigurd, the goblin head, loves their job and does their best to cheerfully and enthusiastically greet visitors. They speak with their mouth full and, while very gullible in general, refuse to give up the gigantic [Ring of Knocking (p. 35)](#ring-of-knocking). Sigurd remains unaware of the recursive nature of the tower, but they do know:
 
@@ -151,15 +149,15 @@ The doors open when struck with the knocker. The rapping reverberates at an ears
 
 ## 1C. Reception
 
-***Plump green couches and armchairs top a mustard shag carpet.*** Fractals pattern the furniture, the surfaces marred by scratch marks and
+<span class="read-aloud">**Plump green couches and armchairs top a mustard shag carpet.**</span> Fractals pattern the furniture, the surfaces marred by scratch marks and
 streaked with pink cat hair. 
 
-***A twelve foot-long brass key hangs like a trophy on the north wall.*** Tarnish veils the key’s owl-shaped handle, its feathers freckled with the
+<span class="read-aloud">**A twelve foot-long brass key hangs like a trophy on the north wall.**</span> Tarnish veils the key’s owl-shaped handle, its feathers freckled with the
 green of age. Once shrunk, the key opens the door to [*3B. Library* (p. 15)](#3b-library). 
 
-***Lush vines clutch the key and drape over the cabinets below.*** Their roots spill from dirt-streaked yellow pots perched on the furniture. Purple flowers dot the greenery, heavy with the scent of fermenting blackberries. The [grabbing vines](#grabbing-vines) shiver with anticipation when prey draws near and strangle creatures within reach. 
+<span class="read-aloud">**Lush vines clutch the key and drape over the cabinets below.**</span> Their roots spill from dirt-streaked yellow pots perched on the furniture. Purple flowers dot the greenery, heavy with the scent of fermenting blackberries. The [grabbing vines](#grabbing-vines) shiver with anticipation when prey draws near and strangle creatures within reach. 
 
-***Beneath the vines stands a stout oak cabinet.*** Valuables wait inside the cabinet, but setting fire to the vines incinerates both wood and contents. Valuables include:
+<span class="read-aloud">**Beneath the vines stands a stout oak cabinet.**</span> Valuables wait inside the cabinet, but setting fire to the vines incinerates both wood and contents. Valuables include:
 
 * 10 lavish floral dinner plates (5gp each).
 * 5 pure silver cocktail swords (20gp each).
@@ -195,7 +193,7 @@ green of age. Once shrunk, the key opens the door to [*3B. Library* (p. 15)](#3b
 
 ## 0A. Cellar
 
-***A chill breeze drifts between chestnut barrels stacked on the west wall. The air bristles with the scents of fermentation and spoiled fish.*** The barrels contain remnants of pickled cabbage, onions, garlic, and turnips.
+<span class="read-aloud">**A chill breeze drifts between chestnut barrels stacked on the west wall. The air bristles with the scents of fermentation and spoiled fish.**</span> The barrels contain remnants of pickled cabbage, onions, garlic, and turnips.
 
 Beyond the barrels waits a magically locked secret door leading to [*0B. Moon Pool* (p. 11)](#0b-moon-pool), its seams barely visible. At its base sits a wood-framed broken window, its edges jagged with glass shards and tangled with stringy gray feathers, its frame adorned with golden eyes—the remnants of a broken [*Portable Window* (p. 34)](#portable-window). A glimpse through the broken window shows the toggle switch waiting by the moon pool.
 
@@ -203,13 +201,13 @@ Beyond the barrels waits a magically locked secret door leading to [*0B. Moon Po
 
 <a href="/assets/images/a-familiar-tower/Moon_Pool.png" target="_blank"><img src="/assets/images/a-familiar-tower/Moon_Pool.png" style="float: right; max-width: 50%; margin:10px 0 10px 10px;"></a>
 
-***A crescent pool lies flush with the floor, reeking of musk and fetid fish, its surface peppered with drowned insects and the occasional slick of oily residue.*** The water proves too murky to see through. Those diving down and out arrive at [*1A. Tabletop Water* (p. 6)](#1a-tabletop-water). Disturbing the water causes [Athena (p. 27)](#athena-the-fun-loving-aquatic-beast) to surface. 
+<span class="read-aloud">**A crescent pool lies flush with the floor, reeking of musk and fetid fish, its surface peppered with drowned insects and the occasional slick of oily residue.**</span> The water proves too murky to see through. Those diving down and out arrive at [*1A. Tabletop Water* (p. 6)](#1a-tabletop-water). Disturbing the water causes [Athena (p. 27)](#athena-the-fun-loving-aquatic-beast) to surface. 
 
-***At the pool’s center, a sealed oak barrel stands atop a floating platform secured by chains and a winch.*** Inside, tight-packed fermented herring render the barrel bulky and buoyant.
+<span class="read-aloud">**At the pool’s center, a sealed oak barrel stands atop a floating platform secured by chains and a winch.**</span> Inside, tight-packed fermented herring render the barrel bulky and buoyant.
 
-***Damp, wood-slatted crates stand piled high along the north wall,*** crammed with wooden ducks, inflated goat bladders, wicker hoops, and a bundle of large sanded sticks with shallow bite marks. [Mother (p. 30)](#mother-the-nurturing-leader-of-the-pigeon-rats) and her brood of 12 [pigeon-rats (p. 30)](#pigeon-rats-the-helpless-flock) lair behind the topmost crates, keeping hidden out of sight. Caught off guard or forced to surrender, Mother parts with the 10 diamonds that she’s been sleeping atop (50gp each) and petitions the party to retrieve a [Potion of Cure Disease (p. 34)](#potion-of-cure-disease) from [*2C. Workshop* (p. 13)](#2c-workshop). 
+<span class="read-aloud">**Damp, wood-slatted crates stand piled high along the north wall,**</span> crammed with wooden ducks, inflated goat bladders, wicker hoops, and a bundle of large sanded sticks with shallow bite marks. [Mother (p. 30)](#mother-the-nurturing-leader-of-the-pigeon-rats) and her brood of 12 [pigeon-rats (p. 30)](#pigeon-rats-the-helpless-flock) lair behind the topmost crates, keeping hidden out of sight. Caught off guard or forced to surrender, Mother parts with the 10 diamonds that she’s been sleeping atop (50gp each) and petitions the party to retrieve a [Potion of Cure Disease (p. 34)](#potion-of-cure-disease) from [*2C. Workshop* (p. 13)](#2c-workshop). 
 
-***A gigantic toggle switch, more than 6' long, rests in the floor to the west.*** The switch is impossible for an ordinary human to move. Flipped, the switch unanchors the tower from the basin-table in [*4A. Model Room* (p. 16)](#4a-model-room): see [Advanced Tower Mechanics (p. 25)](#advanced-tower-mechanics). Those entering the room through the pool notice the magically locked secret door and the window-hole at its base to [*0A. Cellar* (p. 10)](#0a-cellar).
+<span class="read-aloud">**A gigantic toggle switch, more than 6' long, rests in the floor to the west.**</span> The switch is impossible for an ordinary human to move. Flipped, the switch unanchors the tower from the basin-table in [*4A. Model Room* (p. 16)](#4a-model-room): see [Advanced Tower Mechanics (p. 25)](#advanced-tower-mechanics). Those entering the room through the pool notice the magically locked secret door and the window-hole at its base to [*0A. Cellar* (p. 10)](#0a-cellar).
 
 # Level 2
 
@@ -229,22 +227,22 @@ Beyond the barrels waits a magically locked secret door leading to [*0B. Moon Po
 
 ## 2A. Taxidermy Landing
 
-***Taxidermied animals proudly display in niches on the wall.*** A bullfrog, a snowy owl, a raven, a jackalope, and a purple ferret all gaze outwards, each perfectly preserved—except their faces, which have been scratched out, cotton stuffing oozing from the wounds. The owl’s head twists off, revealing a sapphire (500gp) wrapped inside a random [spell scroll (p. 36)](#spells).
+<span class="read-aloud">**Taxidermied animals proudly display in niches on the wall.**</span> A bullfrog, a snowy owl, a raven, a jackalope, and a purple ferret all gaze outwards, each perfectly preserved—except their faces, which have been scratched out, cotton stuffing oozing from the wounds. The owl’s head twists off, revealing a sapphire (500gp) wrapped inside a random [spell scroll (p. 36)](#spells).
 
 ## 2B. Transport Room
 
-***A solitary door stands closed in its frame atop a raised granite dais, teleportation runes carved into the rock.*** The dais bears a neatly carved
+<span class="read-aloud">**A solitary door stands closed in its frame atop a raised granite dais, teleportation runes carved into the rock.**</span> The dais bears a neatly carved
 three-foot spherical divot. When enlarged, [quartz marbles (p. 35)](#quartz-spheres) become 3′ spheres that fit perfectly into the dais divot. Placing one causes the door to open magically, its destination determined by the chosen sphere.
 
-***On a wooden end table rests a narrow felt-lined strip of wood.*** A row of three marble-sized grooves cuts into the wood, labeled *“Wardrobe*,” “*Vault*,” and “*Exit*.” The wardrobe divot holds a [smoky black quartz marble (pg. 35)](#smoky-black-quartz). 6′′ above the vault divot—permanently anchored in mid-air—floats a [citrine gold quartz marble (pg. 35)](#citrine-gold-quartz).
+<span class="read-aloud">**On a wooden end table rests a narrow felt-lined strip of wood.**</span> A row of three marble-sized grooves cuts into the wood, labeled *“Wardrobe*,” “*Vault*,” and “*Exit*.” The wardrobe divot holds a [smoky black quartz marble (pg. 35)](#smoky-black-quartz). 6′′ above the vault divot—permanently anchored in mid-air—floats a [citrine gold quartz marble (pg. 35)](#citrine-gold-quartz).
 
 ## 2C. Workshop
 
-***5 cylindrical glass vats, each 6’ tall, fill the room. Almost-human shapes float in gooey blue liquid.*** Clear tubes drain thick gray slop from the dormant [vat-spawn](#vat-spawn) into a pail: 4 uses of [Anti-aging Cream (p. 32)](#anti-aging-cream). 
+<span class="read-aloud">**5 cylindrical glass vats, each 6’ tall, fill the room. Almost-human shapes float in gooey blue liquid.**</span> Clear tubes drain thick gray slop from the dormant [vat-spawn](#vat-spawn) into a pail: 4 uses of [Anti-aging Cream (p. 32)](#anti-aging-cream). 
 
-***One vat stands shattered, its occupant—wrinkled, pale, and pasty—now hunched over with arms wrapped around their knees.*** When approached, the [vat-spawn](#vat-spawn) gasps silently and reaches out for the warmth of flesh. 
+<span class="read-aloud">**One vat stands shattered, its occupant—wrinkled, pale, and pasty—now hunched over with arms wrapped around their knees.**</span> When approached, the [vat-spawn](#vat-spawn) gasps silently and reaches out for the warmth of flesh. 
 
-***Shelves and desks brim and bow with arcane clutter.*** Dry and brittle [pigeon-rat (p. 30)](#pigeon-rats-the-helpless-flock) corpses lie strewn among the alchemical bric-a-brac. Each turn spent searching the sprawling paraphernalia yields the next item in the following list. More than one person may search at a time.
+<span class="read-aloud">**Shelves and desks brim and bow with arcane clutter.**</span> Dry and brittle [pigeon-rat (p. 30)](#pigeon-rats-the-helpless-flock) corpses lie strewn among the alchemical bric-a-brac. Each turn spent searching the sprawling paraphernalia yields the next item in the following list. More than one person may search at a time.
 
 - [ ] 167 [milky white quartz marbles (p. 35)](#milky-white-quartz-rejects) in a glass jar labeled “rejects.” Sounds of hissing within.
 - [ ] [Potion of Cure Disease (p. 34)](#potion-of-cure-disease).
@@ -280,14 +278,14 @@ three-foot spherical divot. When enlarged, [quartz marbles (p. 35)](#quartz-sphe
 
 ## 3A. Solar System Landing
 
-***Every surface glows with depictions of stars and celestial bodies. Amid the cosmos, a door gleams with the outline of an owl-shaped constellation.*** The door sits magically locked, opening to the shrunken owl key from [*1C. Reception* (p. 9)](#1c-reception). The constellations on the walls and floor move almost imperceptibly—they are not of this world.
+<span class="read-aloud">**Every surface glows with depictions of stars and celestial bodies. Amid the cosmos, a door gleams with the outline of an owl-shaped constellation.**</span> The door sits magically locked, opening to the shrunken owl key from [*1C. Reception* (p. 9)](#1c-reception). The constellations on the walls and floor move almost imperceptibly—they are not of this world.
 
 
 ## 3B. Library
 
 <a href="/assets/images/a-familiar-tower/Carbuncle_Eating.png" target="_blank"><img src="/assets/images/a-familiar-tower/Carbuncle_Eating.png" style="float: right; margin:10px 0 10px 10px; max-width: 50%;"></a>
 
-***Bookshelf after bookshelf looms, stuffed with shredded pages and hollowed tomes. From beneath the pulpy massacre comes the sound of soft chewing***: [Carbuncle (p. 28)](#carbuncle-the-ruby-spell-armadillo) has eaten all of the spell books in the library, and now idly gnaws on the spines and covers. The knowledge within them now fills the ruby gem on his forehead. With no reason to lie, Carbuncle proves happy to explain how the [Gem of the Erudite (p. 33)](#gem-of-the-erudite) works. He also remains more than willing to give up his life to safely remove his gem—but gosh golly, you know, he’d really love to cross a few experiences off his bucket list first.
+<span class="read-aloud">**Bookshelf after bookshelf looms, stuffed with shredded pages and hollowed tomes. From beneath the pulpy massacre comes the sound of soft chewing**</span>: [Carbuncle (p. 28)](#carbuncle-the-ruby-spell-armadillo) has eaten all of the spell books in the library, and now idly gnaws on the spines and covers. The knowledge within them now fills the ruby gem on his forehead. With no reason to lie, Carbuncle proves happy to explain how the [Gem of the Erudite (p. 33)](#gem-of-the-erudite) works. He also remains more than willing to give up his life to safely remove his gem—but gosh golly, you know, he’d really love to cross a few experiences off his bucket list first.
 
 # Level 4
 
@@ -309,13 +307,13 @@ three-foot spherical divot. When enlarged, [quartz marbles (p. 35)](#quartz-sphe
 
 <a href="/assets/images/a-familiar-tower/Model_Room.png" target="_blank"><img src="/assets/images/a-familiar-tower/Model_Room.png" style="float: right; margin:10px 0 10px 10px; max-width: 50%;"></a>
 
-***A basin-table, 3' deep, brims with putrid, scummy liquid. At its center rises a miniature version of a familiar tower,*** surrounded by the same foul water as [*1A. Tabletop Water* (p. 6)](#1a-tabletop-water). On the 12′′ tower’s double doors gleams Sigurd, the brass goblin head, gripping the emerald [Ring of Knocking (p. 35)](#ring-of-knocking) in their mouth. 
+<span class="read-aloud">**A basin-table, 3' deep, brims with putrid, scummy liquid. At its center rises a miniature version of a familiar tower,**</span> surrounded by the same foul water as [*1A. Tabletop Water* (p. 6)](#1a-tabletop-water). On the 12′′ tower’s double doors gleams Sigurd, the brass goblin head, gripping the emerald [Ring of Knocking (p. 35)](#ring-of-knocking) in their mouth. 
 
 Imperceptible from the surface, an 8ʺ rock lies at the bottom of the basin, and within it a hollow space: the [*–1A. Treasure Vault* (p. 24)](#1a-treasure-vault). Shaken, the tiny coins and furniture within audibly jingle. Close observation shows the seams of a door, but it opens only from the inside or with the [Ring of Knocking (p. 35)](#ring-of-knocking).
 
-***An open window sits in the west wall:*** the same window that looks out from the miniature tower, through which the room’s events can be seen, heard, and felt in amplified form.
+<span class="read-aloud">**An open window sits in the west wall:**</span> the same window that looks out from the miniature tower, through which the room’s events can be seen, heard, and felt in amplified form.
 
-***Tall cabinets hug the walls.*** They contain miniature wooden furniture, interlocking harbor docks, and floating platforms weighted with chains connected to iron anchors. At one end waits a locked 1ʺ miniature chest, splintered and worn. The chest holds the following:
+<span class="read-aloud">**Tall cabinets hug the walls.**</span> They contain miniature wooden furniture, interlocking harbor docks, and floating platforms weighted with chains connected to iron anchors. At one end waits a locked 1ʺ miniature chest, splintered and worn. The chest holds the following:
 
 * Topaz (500gp), wrapped in a random [spell scroll (p. 36)](#spells).
 * Glass vial with a Potion of Healing, which shatters if the chest
@@ -340,24 +338,24 @@ Imperceptible from the surface, an 8ʺ rock lies at the bottom of the basin, and
 
 ## 5A. Kitchen
 
-***Ransacked stores of dried goods spill across countertops and out from cabinets.*** Rodent and cat tracks crisscross through dustings of
+<span class="read-aloud">**Ransacked stores of dried goods spill across countertops and out from cabinets.**</span> Rodent and cat tracks crisscross through dustings of
 flour, ground coffee, and desiccated peas.
 
-***Flies swirl around a portrait of a crooked-nosed, straight-faced man cradling a pink tabby cat.*** Around the cat’s neck hangs a depiction of a [sea-green quartz marble (p. 35)](#sea-green-quartz), shimmering with the image of rocky island outcrops. Wisps of pink cat hair cling to the seams of the secret cat door at the base of the wall, where the stench of excrement seeps through.
+<span class="read-aloud">**Flies swirl around a portrait of a crooked-nosed, straight-faced man cradling a pink tabby cat.**</span> Around the cat’s neck hangs a depiction of a [sea-green quartz marble (p. 35)](#sea-green-quartz), shimmering with the image of rocky island outcrops. Wisps of pink cat hair cling to the seams of the secret cat door at the base of the wall, where the stench of excrement seeps through.
 
 ## 5B. Bedroom
 
-***A king-sized four-poster bed with a chest-high mattress top dominates the chamber.*** Disheveled, blood-stained sheets hide a curled up rotting [pigeon-rat (p. 30)](#pigeon-rats-the-helpless-flock) carcass with gaping puncture wounds. Bloody cat prints trail off to the southeast. [Edgar (p. 29)](#edgar-the-battle-scarred-giant-cockroach) sleeps under the bed (always present on the party’s first
+<span class="read-aloud">**A king-sized four-poster bed with a chest-high mattress top dominates the chamber.**</span> Disheveled, blood-stained sheets hide a curled up rotting [pigeon-rat (p. 30)](#pigeon-rats-the-helpless-flock) carcass with gaping puncture wounds. Bloody cat prints trail off to the southeast. [Edgar (p. 29)](#edgar-the-battle-scarred-giant-cockroach) sleeps under the bed (always present on the party’s first
 visit, 3-in-6 chance on subsequent visits).
 
-***Beside the bed rests a rosewood nightstand.*** Its drawers contain:
+<span class="read-aloud">**Beside the bed rests a rosewood nightstand.**</span> Its drawers contain:
 
 * Empty bottles of gray [Anti-aging Cream (p. 32)](#anti-aging-cream).
 * Everlasting ink quill and vellum chore list: “*Empty litter box*,” “*Clean out wardrobe*,” “*Vat-spawn sensitive to silver?*”
 * [Ebony Monk Figurine (p. 33)](#ebony-monk-figurine).
 * [Jar of Catnip (p. 33)](#jar-of-catnip), held in the locked bottom drawer.
 
-***Opposite the bed stands a grand wardrobe with floral-patterned double doors.*** The locked wardrobe contains, among other things, a 4HD [swarm of spiders (p. 31)](#swarm-of-spiders), which spills out when the doors open. Each turn spent searching yields the next item in the following list. More than one person may search at a time.
+<span class="read-aloud">**Opposite the bed stands a grand wardrobe with floral-patterned double doors.**</span> The locked wardrobe contains, among other things, a 4HD [swarm of spiders (p. 31)](#swarm-of-spiders), which spills out when the doors open. Each turn spent searching yields the next item in the following list. More than one person may search at a time.
 
 - [ ] [Bloodletter (p. 32)](#bloodletter-two-handed-sword-2), shrunken to an inch in length.
 - [ ] 10 onyx buttons (100gp each) fastening a glittering green dragon hide doublet. 
@@ -370,9 +368,9 @@ visit, 3-in-6 chance on subsequent visits).
 
 Setting fire to the wardrobe causes it to explode in one turn, destroying everything inside.
 
-***Next to the wardrobe, a shattered glass terrarium lies in ruins.*** Paper-thin cockroach skin and a dry sponge sit at the entrance to the gaping mouth of a human skull. Hidden in the maw waits the key to the bottom drawer of the nightstand. 
+<span class="read-aloud">**Next to the wardrobe, a shattered glass terrarium lies in ruins.**</span> Paper-thin cockroach skin and a dry sponge sit at the entrance to the gaping mouth of a human skull. Hidden in the maw waits the key to the bottom drawer of the nightstand. 
 
-***Near the southeast wall, fat flies spiral around a free-standing mirror.*** Behind the [Mirror of Affirmation (p. 34)](#mirror-of-affirmation) lies a magically locked secret door, marked with a cat’s-eye keyhole and a small hidden cat door at its base.
+<span class="read-aloud">**Near the southeast wall, fat flies spiral around a free-standing mirror.**</span> Behind the [Mirror of Affirmation (p. 34)](#mirror-of-affirmation) lies a magically locked secret door, marked with a cat’s-eye keyhole and a small hidden cat door at its base.
 
 ## Top Shelf of the Wardrobe
 
