@@ -1,5 +1,5 @@
 ---
-title: "Puzzle Dungeon: The Seers Sanctum"
+title: "🧿 Puzzle Dungeon: The Seers Sanctum"
 description: "An eye-opening adventure for low-level OSE characters."
 nav_order: 2
 ---

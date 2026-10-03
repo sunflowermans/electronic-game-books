@@ -1,5 +1,5 @@
 ---
-title: A Familiar Tower
+title: 😼 A Familiar Tower
 description: "When the wizard's away, the cat will play..."
 nav_order: 3
 ---
