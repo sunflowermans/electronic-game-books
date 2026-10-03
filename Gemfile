@@ -7,6 +7,7 @@ gem "just-the-docs", "0.12.0" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
 group :jekyll_plugins do
+        gem "jekyll-redirect-from"
         gem "dark-dungeons-theme" # dark visual overlay for just the docs theme
         gem "jekyll-hover-popup" # Link hovering preview windows
         gem "jekyll-jtd-toc-nav" # Table of Contents in the navigation bar

@@ -78,6 +78,8 @@ GEM
     jekyll-jtd-toc-nav (0.3.0)
       jekyll (>= 3.0)
       nokogiri (>= 1.13)
+    jekyll-redirect-from (0.17.0)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
     jekyll-seo-tag (2.9.1)
@@ -170,6 +172,7 @@ DEPENDENCIES
   jekyll-hover-popup
   jekyll-image-links
   jekyll-jtd-toc-nav
+  jekyll-redirect-from
   just-the-docs (= 0.12.0)
   rpg-callouts
 
@@ -208,6 +211,7 @@ CHECKSUMS
   jekyll-image-links (0.1.2) sha256=5bb78843f55bce17e8798df4d220c7288f44291aaa092b1b2aa020836e39f5f8
   jekyll-include-cache (0.3.1) sha256=4ba9c00b05247245420656dc313826ca761c4e0b13c0976ad298225f9f7792d3
   jekyll-jtd-toc-nav (0.3.0) sha256=f8c556a292cdbb7be476dcb13c9cc09c5a6c73fb90bbb86412c9670fd6456e03
+  jekyll-redirect-from (0.17.0) sha256=703dab0428b20bb5d550ab83d3c28b65bb5ecc0f734c5e61ee680de391b3e897
   jekyll-sass-converter (3.1.0) sha256=83925d84f1d134410c11d0c6643b0093e82e3a3cf127e90757a85294a3862443
   jekyll-seo-tag (2.9.1) sha256=ed5c757a091048b6ef9109f856f84a29beaeb70f531ba5775a5e92129a28093e
   jekyll-watch (2.2.1) sha256=bc44ed43f5e0a552836245a54dbff3ea7421ecc2856707e8a1ee203a8387a7e1

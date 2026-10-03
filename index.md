@@ -67,6 +67,3 @@ The same extensions that power Just The Games can be used in any *Just the Docs*
 ## Make stuff
 
 Want to publish your own adventure or rules? Creators guides are available in [🔨 Make Your Own](/docs/make-your-own.html). You can host your own copy of Just The Games for free on GitHub in a few clicks by using this [template](https://github.com/sunflowermans/just-the-games-template).
-
-{: .note }
-> Fonts, colors and styles for this site are based on the [Designing Dungeons](https://dungeons.hismajestytheworm.games/) course and are used with permission.

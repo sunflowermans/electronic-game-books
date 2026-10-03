@@ -31,7 +31,10 @@ defaults:
     values:
       layout: "default"
 
+footer_content: "Fonts, colors and styles for this site are based on the <a href=\"https://dungeons.hismajestytheworm.games\">Designing Dungeons course</a> and are used with permission."
+
 plugins:
+  - jekyll-redirect-from
   - jekyll-jtd-toc-nav # headers in the nav bar
   - jekyll-dice-tray # dice tray widget
   - jekyll-hover-popup # preview popup windows for internal links
