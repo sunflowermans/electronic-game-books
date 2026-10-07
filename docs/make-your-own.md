@@ -1,7 +1,7 @@
 ---
 title: 🔨 Make Your Own
 description: Guides for formatting adventure and rules markdown and making your own Just the Games site.
-nav_order: 999
+nav_order: 3
 has_children: true
 ---
 # Make your Own
