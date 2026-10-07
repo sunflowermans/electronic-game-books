@@ -51,10 +51,6 @@ All rules and adventures are written in simple Markdown, with support for more a
 
 The same extensions that power Just The Games can be used in any *Just the Docs* site. Like those used with [Cairn RPG](https://cairn.puzzledungeon.com/) or [The Designing Dungeons Course](https://dungeons.puzzledungeon.com). Click to see what they look like with the same plugins—and [play some games](https://cairn.puzzledungeon.com/adventures/first-party/)!
 
-<!-- <a href="https://cairn.puzzledungeon.com/adventures/first-party/cas-3/"><video autoplay loop muted playsinline style="max-width: 100%; height: auto;">
-  <source src="/assets/video/cairn-screencast.webm" type="video/webm">
-</video></a> -->
-
 <div style="display: flex; gap: 10px;">
 <div>
     <center><video autoplay loop muted playsinline style="max-width: 75%; height: auto;">

@@ -9,11 +9,6 @@ aux_links:
   "Return to the Puzzle Dungeon blog":
     - "https://puzzledungeon.com/"
 
-# External navigation links
-nav_external_links:
-  - title: Cairn Rules
-    url: https://cairn.puzzledungeon.com
-
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
