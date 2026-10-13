@@ -14,7 +14,7 @@ Version 1.1 - October 2026
 
 Shared under CC BY-NC-SA 3.0 license.
 
-![](/assets/images/lair-of-the-lamb-one-shot-edition/the-lamb-luke.png)
+[![](/assets/images/lair-of-the-lamb-one-shot-edition/the-lamb-luke.png)](/assets/images/lair-of-the-lamb-one-shot-edition/the-lamb-luke.png)
 
 # Credits
 
@@ -22,7 +22,7 @@ An adventure by [Arnold K.](https://goblinpunch.blogspot.com/) shared and cared 
 
 Lamb sketched by [Luke Stratton](https://www.limithron.com/) during the playtest at Gary Con 2024.
 
-Playtesters: Ben Milton, Gavin Norman, Frank Sokolowski, Luke Stratton, SirFinnegan, DustyHalo, Dwiz, Andrew Swedberg, Eric McCon, Trollfinger
+Playtesters: Ben Milton, Gavin Norman, Frank Sokolowski, Luke Stratton, SirFinnegan, DustyHalo, Dwiz, Andrew Swedberg, Eric McConaghy, Trollfinger
 
 # The Pitch
 
@@ -45,7 +45,7 @@ The expected (but not required) flow is:
 - The party initially flees.
 - The party lures [The Lamb](#the-lamb) away from [9 FOUNTAIN](#9-fountain) and then drinks water.
 - The party follows the main path to end up at [13 CITY MURAL](#13-city-mural). The bashed in door reaffirms that they can and should be bashing in [locked doors](#doors).
-- The party escapes via [19 HEAVY DOOR](#19-heavy-door).
+- The party escapes via [21 HEAVY DOORS](#21-heavy-doors).
 
 # A Message For Players
 
@@ -180,6 +180,8 @@ When the circumstances of a player roll are considerably good or bad, the refere
 
 Players roll **2d20 and take the higher or lower die result**, respectively.
 
+Having both advantage and disadvantage negates both effects, regardless of how many.
+
 #### Dehydration
 
 Characters begin dehydrated and have [disadvantage](#advantage-and-disadvantage) on all rolls until they drink water. Without water, everyone will be dead in 24 hours.
@@ -233,6 +235,10 @@ Attacks remove a fixed number of Hit Points from their target with each successf
 * **Regular weapons**: -2 HP.
 
 * **Magic weapons**: -3 HP.
+
+### Spells
+
+Monsters may cast each of their spells once per day.
 
 ### Actions (combat)
 
@@ -315,6 +321,8 @@ If characters triggered the encounter by making **noise**, the lamb attacks on a
 
 
 # The Lamb
+
+[![luke-just-lamb-2](/assets/images/lair-of-the-lamb-one-shot-edition/luke-just-lamb-3.png)](/assets/images/lair-of-the-lamb-one-shot-edition/luke-just-lamb-3.png)
 
 The Lamb is one of the secrets that [The White Temple](#the-white-temple) keeps. They call it The Lamb because it was born of a sheep. It is a holy child of [Vandoh](#the-white-temple).
 
@@ -656,7 +664,7 @@ A 30' rope tied to an iron spike. A sealed portcullis. 10' away, on the other si
 - [Orb of Indulgence](#orb-of-indulgence) (500s)
 - Masterwork breast plate (too large to pass through portcullis, +6 [Defense](#defending))
 - Helmet (too large to pass through portcullis, +1 [Defense](#defending))
-- Mostly-accurate map of the dungeon (TODO Image HERE)
+- [Mostly-accurate map of the dungeon](#mostly-accurate-map)
 
 
 
@@ -665,6 +673,12 @@ A 30' rope tied to an iron spike. A sealed portcullis. 10' away, on the other si
 > **Orb of Indulgence**
 >
 > A silver orb about an inch across. These orbs are sold by the Church. Your next significant sin is immediately forgiven, and the orb corrodes. Although they are sold, the orbs are still a tightly controlled item. If you find one, the only ethical option is to sell it back to the Church. Worth 500s. Rumors exist of golden orbs that can forgive even mortal sins.
+
+{: .item .callout #mostly-accurate-map }
+
+> **Mostly-accurate Map of the Dungeon**
+>
+> [![lair-map-found](/assets/images/lair-of-the-lamb-one-shot-edition/lair-map-found.png)](/assets/images/lair-of-the-lamb-one-shot-edition/lair-map-found.png)
 
 ## 19 PRIESTS
 
@@ -680,16 +694,18 @@ Three perfectly round shallow **pools** of pink liquid are set into the floor. I
   
 * **Old men (3)**: Naked. Smiling in their sleep, occasionally twitching and emitting little groans of pleasure.
   * One has an emerald lens (400s) embedded in their forehead. 
-  * Retired priests of Vandoh, rewarded for service. They will live in the Lamb's psychotropic urine until they die, hundreds of years from now, writhing in ecstasy.
+  * Retired [Priests of Vandoh](#priest-of-vandoh), rewarded for service. They will live in the Lamb's psychotropic urine until they die, hundreds of years from now, writhing in ecstasy.
   * When touched, they will scream (verbally and psychically). This awakens all priests (including [Vandress](#vandress) in [20 POOLS](#20-pools)) who will attack. The
     urine has robbed these three priests of all language except the words “lamb”, “blasphemy”, and “magenta”.
 
-{: .monster }
+{: .monster #priest-of-vandoh }
 
+> **Priest of Vandoh**
+>
 > **Hit Points**: 2 **Guard**: 10, **Power**: 11, **Attacks**: Slap (-0 HP) or Spell
 >
 > * **Spells**: Range is 30'. [d20 roll](#player-dice-rolls) to negate. Each priest knows a different spell and may cast it once per day.
->   * Sleep: TODO
+>   * Sleep: Target falls into a deep sleep. Noises will not wake them, but a slap or a kick will.
 >   * Desiccate: Evaporates five gallons of liquid. -3 HP to one mostly liquid target, like a human.
 >   * Force Teleport: Target is teleported to a random room of the dungeon.
 
@@ -700,7 +716,7 @@ Three perfectly round shallow **pools** of pink liquid are set into the floor. I
 Four irregular **pools**, each one contains a different color liquid.
 
 * **Pink pool**: Identical to the pink pools in [19 PRIESTS](#19-priests). 
-  * Contains **Vandress**, the eldest priestess. She has lobster claws and a third eye.
+  * Contains [Vandress](#vandress), the eldest priestess. She has lobster claws and a third eye.
 * **Yellow pool**: Liquid light.
   * Shines as brightly as daylight for 3 rounds when violently splashed. Works once.
   * Can be collected into a bottle without triggering it.
@@ -712,13 +728,14 @@ Four irregular **pools**, each one contains a different color liquid.
 
 The pools serve as a repository for the more exotic types of waste that the Lamb produces.
 
-{: .monster }
+{: .monster #vandress }
 
 > **Vandress**
-> **Hit Points**: 2 **Guard**: 10, **Power**: 12, **Attacks**: Claw -2 HP or Spell
+>
+> **Hit Points**: 4 **Guard**: 10, **Power**: 12, **Attacks**: Claw -2 HP or Spell
 >
 > * **Spells**
->   * Confusion: TODO
+>   * Confusion: Each round, target creature must declare three potential actions that are fully distinct from each other (no shared statblock. Each monster has a number of magic dice (MD) performs one of the three actions at random.
 >   * Cone of Mutilation: -3 HP to everything in a 20' cone from caster.
 > * **Scheming**: Unlike her peers, Vandress retains her full mental capacity, and is smart enough to parlay if the need arises. If allowed to escape, she will find [The Lamb](#the-lamb) and lead it while hunting the party.
 > * **Knows**: The clerics come down three days after a feeding to clean up.
@@ -739,8 +756,6 @@ A long set of steep stairs lead up to this room and a pair of barricaded **iron 
 * Upon hearing the party fumbling with the door, the ghouls feign friendship (poorly), intending to eat the party at the first opportunity. They speak openly of how hungry they are.
 * When promised food to be given later for safe passage now, the ghouls pretend to believe characters. 
 * When fed well (at least a goat's worth of meat each), the ghouls are friendly and conversant.
-
-
 
 {: .monster #ghoul }
 
