@@ -112,7 +112,7 @@ Run your game however is easiest for you. There's enough to do already. Offload 
 If a player can make a case their character's background being useful in a situation, it may give a [bonus to rolls](#advantage-and-disadvantage) or an automatic success.
 
 | d100    | Background  |    | Background          |
-| ---- | ---------------- | ---- | ------------------- |
+| :---- | :---------------- | :---- | :------------------- |
 | 1    | Charcoal Burner  | 51   | Apothecary          |
 | 2    | Black Marketeer  | 52   | Geologist           |
 | 3    | Beggar           | 53   | Armorer             |
@@ -273,7 +273,7 @@ One player rolls a d6 to determine which side acts first, the characters or the 
 The dungeon is pitch black. Fumbling around in the dark is risky and takes time. [Player dice rolls](#player-dice-rolls) in the dark are at [disadvantage](#advantage-and-disadvantage).
 
 | Light Source | Illumination Range | Duration |
-| ------------ | ------------------ | -----------|
+| :------------ | :------------------ | :-----------|
 | Torch | 30'       | 1 hour  |
 | Lantern (requires oil) | 30'       | 4 hours |
 | Candle | 10'       | 1 hour  |
@@ -561,7 +561,7 @@ Hundreds of child-sized **pellets** of compressed bone fragments and burlap.
   * Roll a d20 for every [dungeon turn](#dungeon-turns) spent searching the pile. More than one person may search at a time.
 
 | d20          | Result       |
-| ------------ | ------------ |
+| :------------ | :------------ |
 | 1-13         | Nothing      |
 | 14 | Silver bracelet shaped like veins (100s) |
 | 15 | Battered shield (+1 Defense) |
