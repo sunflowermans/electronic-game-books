@@ -714,7 +714,7 @@ A 30' rope tied to an iron spike. A sealed portcullis. 10' away, on the other si
 
 > **Mostly-accurate Map of the Dungeon**
 >
-> [![lair-map-found](/assets/images/lair-of-the-lamb-one-shot-edition/lair-map-found.png)](/assets/images/lair-of-the-lamb-one-shot-edition/lair-map-found.png)
+> [![Mostly-accurate map of the dungeon](/assets/images/lair-of-the-lamb-one-shot-edition/found-map.png)](/assets/images/lair-of-the-lamb-one-shot-edition/found-map.png)
 
 # 19 PRIESTS
 
