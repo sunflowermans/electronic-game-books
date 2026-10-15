@@ -182,7 +182,7 @@ When the players have a really good plan, there is no need to roll the dice. The
 
 Bonuses or Penalties of **±1 or ±2** may be added to player rolls if the situation calls for it, like multiple characters assisting to lift a gate.
 
-#### Advantage and Disadvantage
+### Advantage and Disadvantage
 
 When the circumstances of a player roll are considerably good or bad, the referee may decide that the roll is made at Advantage or Disadvantage.
 
@@ -190,7 +190,7 @@ Players roll **2d20 and take the higher or lower die result**, respectively.
 
 Having both advantage and disadvantage negates both effects, regardless of how many.
 
-#### Dehydration
+### Dehydration
 
 Characters begin dehydrated and have [disadvantage](#advantage-and-disadvantage) on all rolls until they drink water. Without water, everyone will be dead in 24 hours.
 
