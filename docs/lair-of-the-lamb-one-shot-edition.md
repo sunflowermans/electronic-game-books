@@ -492,7 +492,7 @@ Wooden table holding a **fleshy orange bulb** and a **wooden chest**. Bolted to 
 >
 > This is the remnant of a powerful demon. It resembles an elephant skull, slightly deformed.
 >
-> * **Released from chest**: It will attempt to absorb flesh every round until they succeed ([d20 roll](#olayer-dice-rolls) or die). It can fly about as fast as a human can walk. If the skull fails to absorb flesh, add Davok to the [Random Encounters](#random-encounters) roll (appearing on 3).
+> * **Released from chest**: It will attempt to absorb flesh from different targets every round until it succeedes ([d20 roll](#olayer-dice-rolls) or die). It can fly about as fast as a human can walk. If the skull fails to absorb flesh, add Davok to the [Random Encounters](#random-encounters) roll (appearing on 3).
 > * **Absorbing Flesh**: It regrows much of its head. (It looks nothing at all like an elephant.) This will allow it to regain something of its mind, and it will demand to be carried out of the dungeon, casting _Enthrall_ on people until it gets what it wants ([d20 roll](#player-dice-rolls) or become a thrall to Davok).
 > * **While Carried**: It will appear to go to sleep while it searches the ether for the other pieces of its fragmented body.
 > * **The Enthralled**: A thrall is still a playable character, but they are utterly dedicated to serving Davok and will not tolerate any word or action against their master. If pressed, they will call Davok's name.
@@ -771,7 +771,7 @@ The pools serve as a repository for the more exotic types of waste that the Lamb
 > **Hit Points**: 4 **Guard**: 10, **Power**: 12, **Attacks**: Claw -2 HP or Spell
 >
 > * **Spells**
->   * Confusion: Each round, target creature must declare three potential actions that are fully distinct from each other (no shared statblock. Each monster has a number of magic dice (MD) performs one of the three actions at random.
+>   * Confusion: Each round, target creature must declare three potential actions that are fully distinct from each other and perform one of the three actions at random.
 >   * Cone of Mutilation: -3 HP to everything in a 20' cone from caster.
 > * **Scheming**: Unlike her peers, Vandress retains her full mental capacity, and is smart enough to parlay if the need arises. If allowed to escape, she will find [The Lamb](#the-lamb) and lead it while hunting the party.
 > * **Knows**: The clerics come down three days after a feeding to clean up.
