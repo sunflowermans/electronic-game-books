@@ -89,7 +89,7 @@ STRENGTH IS HOLY. SIZE IS SACRED.
 
 ## Dont Worry About It
 
-You are the referee and you don't have to teach the rules to the players. You do have to tell them the odds—what dice they are rolling and the result they need to get. You should tell the players that you are periodically rolling for [random encounters](#raandom-encounters) and let them know when their torches start guttering.
+You can start playing right now without explaining the rules. The rules will be learned through play. Players tell you what they want to try and you tell them if they need to roll. Tell players the odds (i.e. 16+ on d20) so they can make informed decisions. Make sure players know that you are periodically rolling for [random encounters](#random-encounters) and that time is passing.
 
 Run your game however is easiest for you. There's enough to do already. Offload turn keeping and light duration to the players if you think that'll be easier.
 
@@ -109,70 +109,78 @@ Run your game however is easiest for you. There's enough to do already. Offload 
 
 ### Backgrounds
 
-If a player can make a case their character's background being useful in a situation, it may give a [bonus to rolls](#advantage-and-disadvantage) or an automatic success.
+If a player can argue for their character's background being useful in a situation, it may give a [bonus to rolls](#advantage-and-disadvantage) or an automatic success.
 
-| d100    | Background  |    | Background          |
-| :---- | :---------------- | :---- | :------------------- |
-| 1    | Charcoal Burner  | 51   | Apothecary          |
-| 2    | Black Marketeer  | 52   | Geologist           |
-| 3    | Beggar           | 53   | Armorer             |
-| 4    | Blacksmith       | 54   | Glassblower         |
-| 5    | Burgler          | 55   | Ascetic             |
-| 6    | Brewer           | 56   | Gongfarmer          |
-| 7    | Deserter         | 57   | Astrologer          |
-| 8    | Bureaucrat       | 58   | Graverobber         |
-| 9    | Drunkard         | 59   | Astronomer          |
-| 10   | Butcher          | 60   | Gypsy               |
-| 11   | Butler           | 61   | Bandit              |
-| 12   | Farmer, Onion    | 62   | Hatter              |
-| 13   | Farmer, Chicken  | 63   | Baker               |
-| 14   | Farmer, Pumpkin  | 64   | Herald              |
-| 15   | Carpenter        | 65   | Banker              |
-| 16   | Cartwright       | 66   | Herbalist           |
-| 17   | Poacher          | 67   | Barber-Surgeon      |
-| 18   | Chandler         | 68   | Jeweler             |
-| 19   | Innkeeper        | 69   | Bartender           |
-| 20   | Choirboy         | 70   | Locksmith           |
-| 21   | Link Boy         | 71   | Mason               |
-| 22   | Clerk            | 72   | Minstrel            |
-| 23   | Lumberjack       | 73   | Mistress/Paramour   |
-| 24   | Cobbler          | 74   | Moneylender         |
-| 25   | Monk/Nun         | 75   | Painter             |
-| 26   | Cook             | 76   | Perfumer            |
-| 27   | Milkmaid         | 77   | Philosopher         |
-| 28   | Cooper           | 78   | Pickpocket          |
-| 29   | Miller           | 79   | Pissprophet         |
-| 30   | Cultist          | 80   | Poacher             |
-| 31   | Miner            | 81   | Poet                |
-| 32   | Dancer           | 82   | Porter              |
-| 33   | Peasant          | 83   | Potter              |
-| 34   | Drug Dealer      | 84   | Prostitute          |
-| 35   | Shepherd         | 85   | Rag and Bone Man    |
-| 36   | Dyer             | 86   | Rat Catcher         |
-| 37   | Swineherd        | 87   | Sailor              |
-| 38   | Engineer         | 88   | Scribe              |
-| 39   | Tanner           | 89   | Scullion            |
-| 40   | Fanatic          | 90   | Sculptor            |
-| 41   | Thug             | 91   | Servant             |
-| 42   | Fashion Designer | 92   | Slaver              |
-| 43   | Actor            | 93   | Squire              |
-| 44   | Fisher           | 94   | Stay-at-Home Parent |
-| 45   | Alchemist        | 95   | Storyteller         |
-| 46   | Fool             | 96   | Tailor              |
-| 47   | Animal Handler   | 97   | Tax Collector       |
-| 48   | Gambler          | 98   | Torturer            |
-| 49   | Architect        | 99   | Weaponsmith         |
-| 50   | Gardener         | 100  | Wet Nurse           |
+| d100 | Background       | d100 | Background          |
+| :--- | :--------------- | :--- | :------------------ |
+| 1    | Actor            | 51   | Graverobber         |
+| 2    | Alchemist        | 52   | Gypsy               |
+| 3    | Animal Handler   | 53   | Hatter              |
+| 4    | Apothecary       | 54   | Herald              |
+| 5    | Architect        | 55   | Herbalist           |
+| 6    | Armorer          | 56   | Innkeeper           |
+| 7    | Ascetic          | 57   | Jeweler             |
+| 8    | Astrologer       | 58   | Link Boy            |
+| 9    | Astronomer       | 59   | Locksmith           |
+| 10   | Baker            | 60   | Lumberjack          |
+| 11   | Bandit           | 61   | Mason               |
+| 12   | Banker           | 62   | Milkmaid            |
+| 13   | Barber-Surgeon   | 63   | Miller              |
+| 14   | Bartender        | 64   | Miner               |
+| 15   | Beggar           | 65   | Minstrel            |
+| 16   | Black Marketeer  | 66   | Mistress/Paramour   |
+| 17   | Blacksmith       | 67   | Moneylender         |
+| 18   | Brewer           | 68   | Monk/Nun            |
+| 19   | Bureaucrat       | 69   | Painter             |
+| 20   | Burgler          | 70   | Peasant             |
+| 21   | Butcher          | 71   | Perfumer            |
+| 22   | Butler           | 72   | Philosopher         |
+| 23   | Carpenter        | 73   | Pickpocket          |
+| 24   | Cartwright       | 74   | Pissprophet         |
+| 25   | Chandler         | 75   | Poacher             |
+| 26   | Charcoal Burner  | 76   | Poacher             |
+| 27   | Choirboy         | 77   | Poet                |
+| 28   | Clerk            | 78   | Porter              |
+| 29   | Cobbler          | 79   | Potter              |
+| 30   | Cook             | 80   | Prostitute          |
+| 31   | Cooper           | 81   | Rag and Bone Man    |
+| 32   | Cultist          | 82   | Rat Catcher         |
+| 33   | Dancer           | 83   | Sailor              |
+| 34   | Deserter         | 84   | Scribe              |
+| 35   | Drug Dealer      | 85   | Scullion            |
+| 36   | Drunkard         | 86   | Sculptor            |
+| 37   | Dyer             | 87   | Servant             |
+| 38   | Engineer         | 88   | Shepherd            |
+| 39   | Fanatic          | 89   | Slaver              |
+| 40   | Farmer, Chicken  | 90   | Squire              |
+| 41   | Farmer, Onion    | 91   | Stay-at-Home Parent |
+| 42   | Farmer, Pumpkin  | 92   | Storyteller         |
+| 43   | Fashion Designer | 93   | Swineherd           |
+| 44   | Fisher           | 94   | Tailor              |
+| 45   | Fool             | 95   | Tanner              |
+| 46   | Gambler          | 96   | Tax Collector       |
+| 47   | Gardener         | 97   | Thug                |
+| 48   | Geologist        | 98   | Torturer            |
+| 49   | Glassblower      | 99   | Weaponsmith         |
+| 50   | Gongfarmer       | 100  | Wet Nurse           |
 
 ## Player Dice Rolls
 
-If actions cannot be resolved through discussion, the player rolls a d20 and attempts to meet or exceed a target number. Unless otherwise noted, the target number is **16**—terrible odds. Some rolls will allow for modifiers to be added to the d20 roll, but most will not.
+{: .note-title .callout }
+
+>  Note
+>
+> In this game, all rolls to attack, defend. and perform complex actions are made by the players. The referee is only responsible for upkeep rolls, such as for [random encounters](#random-encounters).
+
+If actions cannot be resolved through discussion, the player rolls a d20 and attempts to meet or exceed a target number.
+
+When not [attacking](#attacking) or [defending](#defending), the target number is **16**—terrible odds. Some rolls will allow for modifiers to be added to the d20 roll, but most will not.
 
 ### Bonuses, Penalties, and Automatic Success
 
 When the players have a really good plan, there is no need to roll the dice. The plan succeeds.
 
-Bonuses or Penalties of **+-1 or +-2** may be added to player rolls if the situation calls for it, like multiple characters assisting to lift a gate.
+Bonuses or Penalties of **±1 or ±2** may be added to player rolls if the situation calls for it, like multiple characters assisting to lift a gate.
 
 #### Advantage and Disadvantage
 
@@ -194,11 +202,11 @@ The exact odds of the roll should be discussed between the referee and players. 
 
 ## Inventory
 
-Characters start naked. Players need to track what items they are carrying and how they are carrying them.
+Characters start naked. When players acquire an item they need to account for how they are carrying it.
 
 ## Improvised Items
 
-Adjudicate improvised item ideas as needed. Make sure they are unreliable and remember to tell the players the odds associated with their improvised item. A really good idea could make an improvised item better or hit harder. Here are some examples of improvised items: 
+Due to the circumstances of this scenario, players are likely to improvise items. Make sure they are unreliable and remember to tell the players the odds associated with their improvised item. A really good idea could make an improvised item better or hit harder. Here are some examples of improvised items: 
 
 **Improvised weapons** (-1 HP) break on [attack rolls](#attacking) of 1. (bricks, table legs, torches, ect.)
 
@@ -208,17 +216,45 @@ Adjudicate improvised item ideas as needed. Make sure they are unreliable and re
 
 ## Combat
 
-### Rounds
+### Combat Sequence of Play
 
-Combat is broken into abstracted time called **rounds**. This is about 10 seconds.
+Each combat **round** (about 10 seconds):
+
+1. The players state what actions their characters will attempt.
+2. One player rolls **[initiative](#initiative)** to determine which side goes first, characters or monsters.
+3. The side that wins initiative resolves their [**actions**](#comat-actions).
+4. The other side resolves their [**actions**](#comat-actions).
+
+### Initiative
+
+One player rolls a d6 to determine which side acts first, the characters or the monsters. **4-6** indicates the players go first, **1-3** indicates the monsters act first.
+
+### Combat Actions
+
+In general, characters can perform **one combat action per round and move**. Here are some examples of combat actions:
+
+* Attack
+* Cast a spell
+* Run / Flee
+* Light a torch
+* Tie a knot or lasso
+* Take a drink
+
+### Movement
+
+Don't get bogged down with minutia of movement. 
+
+If a slow creature is chasing a human, the human will probably escape.
+
+If human A moves away from human B during combat, then human B may move the same distance in order to arrive next to human A.
 
 ### Attacking
 
-Players determine if their character [hits](#hit-points) a monster by rolling a d20 with a target number equal to the **monster's Guard**.
+When a character attacks a monster, the player rolls a d20 to hit with a target number equal to the **monster's Guard**. Success indicates a [hit](#hit-points).
 
 ### Defending
 
-Players determine if their character is [hit](#hit-points) by an attacking monster by rolling a d20 with a target number of the **monster's Power**.
+When a monster attacks a character, the player rolls a d20 to defend with a target number of the **monster's Power**. Success indicates the character was not [hit](#hit-points).
 
 Armored characters may add their total Defense to the d20 roll.
 
@@ -240,35 +276,9 @@ Attacks remove a fixed number of Hit Points from their target with each successf
 
 Monsters may cast each of their spells once per day.
 
-### Actions (combat)
+## Dungeon Crawling
 
-In general, characters can perform **one combat action per round and move**. Here are some examples of combat actions:
-
-* Attack
-* Cast a spell
-* Run / Flee
-* Light a torch
-* Tie a knot or lasso
-* Take a drink
-
-### Movement
-
-Movement in combat is abstracted. Humans move at "normal speed." It's about 40' per [round](#round). 
-
-### Initiative
-
-One player rolls a d6 to determine which side acts first, the characters or the monsters. **4-6** indicates the players go first, **1-3** indicates the monsters act first.
-
-### Sequence of play (combat)
-
-1. The players state what actions their characters will attempt.
-2. One player rolls **[initiative](#initiative)**.
-3. The side that wins initiative resolves their [**actions**](#actions).
-4. The other side resolves their [**actions**](#actions).
-
-# Dungeon Crawling
-
-## Light
+### Light
 
 The dungeon is pitch black. Fumbling around in the dark is risky and takes time. [Player dice rolls](#player-dice-rolls) in the dark are at [disadvantage](#advantage-and-disadvantage).
 
@@ -278,11 +288,11 @@ The dungeon is pitch black. Fumbling around in the dark is risky and takes time.
 | Lantern (requires oil) | 30'       | 4 hours |
 | Candle | 10'       | 1 hour  |
 
-## Dungeon Turns
+### Dungeon Turns
 
-Out of combat, time is abstracted into dungeon turns. They are about 10 minutes of in-game time.
+Out of combat, time is abstracted into dungeon **turns**. They are about 10 minutes of in-game time.
 
-## Actions (dungeon crawling)
+### Dungeon Actions
 
 Dungeon crawling actions usually take one dungeon turn. Here are some examples of dungeon crawling actions:
 
@@ -290,17 +300,20 @@ Dungeon crawling actions usually take one dungeon turn. Here are some examples o
 - Prying a torch sconce off the wall.
 - Passing through a room for the first time.
 
-Yes, this is slow. It is assumed that the party is crawling at dungeon speed. This means that everyone is creeping along quietly, talking in a whisper, noticing all the details of the rooms they are in, feeling out every step they take, and listening to all the ambient noises that they can.
+Yes, this is slow. It is assumed that the party is crawling at dungeon speed. This means that everyone is creeping along quietly, talking in a whisper, noticing all the details of the rooms they are in, feeling out every step they take, and listening to all the ambient noises that they can. 
 
-## Sequence of play (dungeon crawling)
+### Sequence of play (dungeon crawling)
 
-1. If indicated, light source(s) go out.
-2. If indicated, the referee checks for [random encounters](#random-encounters).
-3. Each player tells the referee what actions their characters attempt.
-4. The referee resolves actions (prompting players for rolls if needed) and presents encounters if indicated.
-5. The referee marks the [dungeon turn](#dungeon-turns) as ended.
+Every dungeon turn:
 
-## Doors
+1. Referee checks for [random encounters](#random-encounters) when needed.
+2. Each player tells the referee what actions their characters attempt.
+3. The referee resolves actions (prompting players for rolls if needed) and presents encounters if indicated.
+4. The referee marks the [dungeon turn](#dungeon-turns) as ended, used up light sources burn out.
+
+### Doors
+
+Because the characters are vulnerable, doors become important. Behind every door is salvation or death.
 
 It is always assumed that characters listen at doors before they open them since they are going at dungeon speed.
 
@@ -312,13 +325,12 @@ It is always assumed that characters listen at doors before they open them since
 
 Check for encounters **once every three [dungeon turns](#dungeon-turns)** or if the characters make **significant noise**, such as from breaking down a [door](#doors).
 
-Roll a d6. 
+Roll a d6. If characters triggered the encounter by making **noise**, the lamb attacks on a 1 or a 2. Otherwise: 
 
 * On a 1, [The Lamb](#the-lamb) is encountered and attacks the characters. If the characters have no light, [The lamb](#the-lamb) has a 3-in-6 chance of surprising them, gaining a free attack before [initiative](#initiative) is rolled.
-* On a 2, [The Lamb](#the-lamb) is encountered, but it is unaware of the characters' presence. The lamb is in an adjacent room, snuffling and grunting. After one [dungeon turn](#dungeon-turns), it will go in a random direction. You do not need to track it's position at all times. If [Room 12 MOUTH MURAL](#12-mouth-mural) is collapsed, [The Lamb](#the-lamb) will be trapped on the north side of the dungeon, unless you know for a fact that it is to the south.
+* On a 2, [The Lamb](#the-lamb) is encountered, but it is unaware of the characters' presence. The lamb is in an adjacent room, snuffling and grunting. After one [dungeon turn](#dungeon-turns), it will go in a random direction. You do not need to track its position at all times.
 
-If characters triggered the encounter by making **noise**, the lamb attacks on a 1 or a 2.
-
+If [Room 12 MOUTH MURAL](#12-mouth-mural) is collapsed, [The Lamb](#the-lamb) will be trapped on the north side of the dungeon, unless you know for a fact that it is to the south.
 
 # The Lamb
 
@@ -340,7 +352,7 @@ It mostly hangs out in [8 PIT](#8-pit) and [9 FOUNTAIN](#9-fountain).
 > **Hit Points**: 14, **Power**: 16, **Guard**: 10, **Attacks**: Bite (-2 HP), **Move**: Slow
 >
 > * **Surprise**: In darkness, The Lamb has a 3-in-6 chance of surprising the party, gaining an attack before [initiative](#initiative) is rolled.
-> * **Feeding**: If the lamb kills someone, or if finds fresh meat (a goat), it will stop and feed for one [dungeon turn](#dungeon-turns). During this time, it is not very alert.
+> * **Feeding**: If the lamb kills someone, or if finds fresh meat (a goat), it will stop to feed for one [dungeon turn](#dungeon-turns). During this time, it is not very alert.
 > * **Fleeing**: The Lamb is slower than the average human, but characters must win [initiative](#initiative) to run past it in a hallway or room. If the lamb loses track of its prey, it will continue running through 1d4 more rooms (chosen at random from available paths).
 
 ## Lambfruit
@@ -351,13 +363,21 @@ The Lamb is valued for its fruit, clusters of heavy nodules that grow along its 
 Here are the types of Lambfruit (and how many of each type are currently hanging off the Lamb):
 
 - **Nascent Lambfruit (52)**: Dark green. Consumption causes nausea, vomiting, and rampant paranoia about the future. For the rest of the adventure any failed [d20 rolls](#player-dice-rolls) by the character spends the next round [retching](#rounds).
-- **Immature Lambfruit (6)**: Orange. Consumption allows you to see six seconds into the future, per the spell [precognition](#precognition).
+- **Immature Lambfruit (6)**: Orange. Consumption allows you to see into the future one dungeon turn (or one combat round during combat).
+
+{: .note-title .callout }
+
+> Suggestion
+>
+> When a character is exploring a possible future, their player knows. The game continues as normal. After the turn or round has passed, the turn or round resets and the players may choose to make different decisions this go around if they wish.
 
 # Map
 
 Each square on the map is 10' by 10'. The rough-hewn stone walls are easily climbed when not under duress ([d20 roll](#player-dice-rolls) otherwise). There is no light in the dungeon unless otherwise indicated.
 
-## Starting the Game
+[![3-lair-map-edited](/assets/images/lair-of-the-lamb-one-shot-edition/3-lair-map-edited.png)](/assets/images/lair-of-the-lamb-one-shot-edition/3-lair-map-edited.png)
+
+# Starting the Game
 
 {: .note-title .callout }
 
@@ -394,23 +414,23 @@ Everyone should be in control of one free character now. Their other characters 
 
 When the Lamb finishes eating, or loses track of the party, it will head to [9 FOUNTAIN](#9-fountain) for a nice bath.
 
-## 1 BOWLS
+# 1 BOWLS
 
 Three enormous stone bowls. Each bowl contains humans, drugged and restrained inside a burlap sack.
 
-## a FIRST INTERSECTION
+# 1A FIRST INTERSECTION
 
 Barnyard smell to the South.
 
 Faint flickering light to the East.
 
-## b SECOND INTERSECTION
+# 1B SECOND INTERSECTION
 
 Vinegar smell to the North.
 
 Bright flickering light to the East.
 
-## 2 GOATS
+# 2 GOATS
 
 {: .note .callout}
 
@@ -421,13 +441,13 @@ Three dead goats and one live **goat**. Pile of hay and an empty wooden bowl.
 * **Goats**: All wear bells.
   * The live goat is dehydrated and friendly.
 
-## 3 VINEGAR
+# 3 VINEGAR
 
 Two stone troughs, the first is half-filled with **vinegar**. The second is empty and stinks of stale milk.
 
 **Reeking Vinegar Trough**: Contains an empty wine bottle.
 
-## 4 CHESTS
+# 4 CHESTS
 
 {: .note .callout}
 
@@ -466,7 +486,7 @@ Wooden table holding a **fleshy orange bulb** and a **wooden chest**. Bolted to 
 > Once free from the dungeon, Davok begins collecting his missing body parts. His loyal thrall will become a warlock in his service. If they do not wish to become a warlock, they will be made to. The rest of the party can either join in service to Davok, or go their own way. If they choose the latter, the newly minted warlock becomes an allied NPC within the [city of Manderlon](#the-free-city-of-manderlon).
 
 
-## 5 LANDING
+# 5 LANDING
 
 A **lit torch** on the wall illuminates an **Iron-banded chest** atop an oak table. Heavy **steel doors** shimmer in the light.
 
@@ -479,11 +499,11 @@ A **lit torch** on the wall illuminates an **Iron-banded chest** atop an oak tab
 * **Steel doors**: Locked from the other side. A set of ascending stairs is barely visible behind them.
   * No amount of noise will bring a response.
 
-## 5A CLOSET
+# 5A CLOSET
 
 Holds a broom, a 3' gong, and a wooden hammer.
 
-## 6 FISH STATUE
+# 6 FISH
 
 A **statue of a fish** with hands. Behind the statue is a **steel door**. The walls are covered with **murals**.
 
@@ -500,7 +520,7 @@ A **statue of a fish** with hands. Behind the statue is a **steel door**. The wa
 **Murals**: Hundreds of humans pouring water into an upturned fish with hands.
 
 
-## 7 THRONE
+# 7 THRONE
 
 A **throne** of sheep bones and unfired clay. Two **skeletons** stand beside the throne, one holds something black, the other holds something gold. 
 
@@ -518,7 +538,7 @@ A **throne** of sheep bones and unfired clay. Two **skeletons** stand beside the
 > Anyone with a lobster claw will be called to be a cleric of Vandoh, as part of a conspiracy both mundane and supernatural. If they escape the dungeon, they will have the option to become a cleric.
 
 
-## 8 PIT
+# 8 PIT
 
 {: .note .callout }
 
@@ -535,7 +555,7 @@ A massive **slimy pit** reeks of ammonia and feces.
   * She can tell you the basics about the [White Temple](#the-white-temple), [Vandoh](#the-white-temple), and [The Lamb](#the-lamb). Knows the clerics come down three days after a feeding to clean up.
   
 
-## 9 FOUNTAIN
+# 9 FOUNTAIN
 
 {: .note .callout }
 
@@ -547,12 +567,12 @@ A **slimy pool** catches water overflowing from the mouth of a fountain shaped l
 
 * **Slimy Pool**: 30' deep water.
   * An **armored skeleton** droops in the shallows. It clutches a polished **sword**.
-* **Armored Skeleton**: Wears rusted (but serviceable) plate armor (+5 [Defense](#defending)).
+* **Armored Skeleton**: Wears rusted (but serviceable) plate armor (+6 [Defense](#defending)).
 * **Sword**: Magic (-3 HP). Bears the holy symbol of [The Red Temple](#the-red-temple).
   * Cursed: Impossibly heavy. Forces any who touch it to grasp it firmly.
   * Salvation: If the skeleton is destroyed or prayed for, the curse is broken and the sword floats to the surface carrying those holding it. Alternatively, the one grasping the sword could be knocked out or made unable to physically hold the sword anymore.
 
-## 10 BONE PILE
+# 10 BONE PILE
 
 Hundreds of child-sized **pellets** of compressed bone fragments and burlap.
 
@@ -573,13 +593,13 @@ Hundreds of child-sized **pellets** of compressed bone fragments and burlap.
 
 * **Crawl-Tunnel**: After a meal escapes through this tunnel, [The Lamb](#the-lamb) will become cunning and begin blocking it up with bones. A blocked tunnel takes 10 minutes to clear by hand.
 
-## 11 COMET MURAL
+# 11 COMET MURAL
 
 A mural of a comet above a tower. A **scrimshaw sheep skull** rests on a pedestal.
 
 * **Scrimshaw Sheep Skull**: Carvings of battles (40s)
 
-## 12 MOUTH MURAL
+# 12 MOUTH MURAL
 
 The **sagging roof** is held up by a 11' metal pole. A **mural of a mouth**. 
 
@@ -592,7 +612,7 @@ The **sagging roof** is held up by a 11' metal pole. A **mural of a mouth**.
 
 * **Mural of a Mouth**: Each tooth is actually a tiny building. Several windows hold tiny, staring figures.
 
-## 13 CITY MURAL
+# 13 CITY MURAL
 
 A mural of a city under waves and a looming giant crab. A huge **crack** runs down the length of the south wall, filled with spiderwebs. A sagging, **moldy door** barely blocks passage east.
 
@@ -600,14 +620,14 @@ A mural of a city under waves and a looming giant crab. A huge **crack** runs do
 
 * **Moldy Door**: Badly damaged and can be quietly wrenched off its hinges.
 
-## 14 SARCOPHAGUS
+# 14 SARCOPHAGUS
 
 A **stone sarcophagus**. A crawl tunnel near the base of the north wall.
 
 * **Stone Sarcophagus**: The heavy lid can be pushed aside by at least 3 people, but it makes noise ([random encounter](#random-encounter)).
   * Inside is a shriveled corpse without any hands. On its chest are a pearl ring (100s) and a black pearl ring (200s).
 
-## 15 CRACK
+# 15 CRACK
 
 Hundreds of **tiny red spiders**. You can barely fit in here. There's **sounds** of an argument between two men.
 
@@ -618,7 +638,7 @@ Hundreds of **tiny red spiders**. You can barely fit in here. There's **sounds**
 * **Danjo**: Extorts characters at the first opportunity. *“Why shouldn't I tell the temple guards? What's in it for me?”* Once that's taken care of, he will happily sell you mundane items at as high a cost as he can.
   * Has candles, chickens, bread, and a knife. He is willing to run across town and purchase things for you, but it'll take 1-3 hours, depending on the item.
 
-## 16 MOLD
+# 16 MOLD
 
 A **moldy shape** curled up in the center of the room. 
 
@@ -631,7 +651,7 @@ A **moldy shape** curled up in the center of the room.
 
 > Receiving sacrament at [The Red Temple](#the-red-temple) allows a character to become a cleric of Shendormu, if they wish.
 
-## 17 ALTAR
+# 17 ALTAR
 
 An **altar** holds a sheep skull amid faded flowers. A **wooden chest** sags with yellow rot.
 
@@ -639,7 +659,7 @@ An **altar** holds a sheep skull amid faded flowers. A **wooden chest** sags wit
 * **Wooden Chest**: Anyone opening it carelessly is exposed to plumes of yellow mold spores ([d20 roll](#player-dice-rolls) or die).
   * Contains rotten books (worthless) and a silver-plate dageurrotype (50s) that shows a dozen strangely-dressed men each buried up to their waist, facing the stars, mouth open.
 
-## 18 SHAFT
+# 18 SHAFT
 
 10' heap of broken and shattered **wooden beams and debris**. Above, a **high ceiling** recedes into shadow.
 
@@ -652,7 +672,7 @@ An **altar** holds a sheep skull amid faded flowers. A **wooden chest** sags wit
 
 * 40' up is a loop of rope that stretches another 10' connecting to [18A LEDGE](18a-ledge).
 
-## 18A LEDGE
+# 18A LEDGE
 
 A 30' rope tied to an iron spike. A sealed portcullis. 10' away, on the other side, is an **armored corpse**. 
 
@@ -662,7 +682,7 @@ A 30' rope tied to an iron spike. A sealed portcullis. 10' away, on the other si
 - Bow + Arrows (-2 HP)
 - Signet ring (50s)
 - [Orb of Indulgence](#orb-of-indulgence) (500s)
-- Masterwork breast plate (too large to pass through portcullis, +6 [Defense](#defending))
+- Masterwork breast plate (too large to pass through portcullis, +7 [Defense](#defending))
 - Helmet (too large to pass through portcullis, +1 [Defense](#defending))
 - [Mostly-accurate map of the dungeon](#mostly-accurate-map)
 
@@ -680,7 +700,7 @@ A 30' rope tied to an iron spike. A sealed portcullis. 10' away, on the other si
 >
 > [![lair-map-found](/assets/images/lair-of-the-lamb-one-shot-edition/lair-map-found.png)](/assets/images/lair-of-the-lamb-one-shot-edition/lair-map-found.png)
 
-## 19 PRIESTS
+# 19 PRIESTS
 
 {: .note .callout}
 
@@ -711,7 +731,7 @@ Three perfectly round shallow **pools** of pink liquid are set into the floor. I
 
 
 
-## 20 POOLS
+# 20 POOLS
 
 Four irregular **pools**, each one contains a different color liquid.
 
@@ -741,9 +761,9 @@ The pools serve as a repository for the more exotic types of waste that the Lamb
 > * **Knows**: The clerics come down three days after a feeding to clean up.
 
 
-## 21 HEAVY DOORS
+# 21 HEAVY DOORS
 
-A long set of steep stairs lead up to this room and a pair of barricaded **iron doors**. There's **chatter and laughter** coming from the other side of the door.
+A long set of steep stairs lead up to this room and a pair of barricaded **iron doors**. There's **chatter and laughter** coming from the other side of the door. The light of day shines from out of sight.
 
 **Iron Doors**: Kept closed with a heavy bar (10') and a set of chains.
 
@@ -762,3 +782,9 @@ A long set of steep stairs lead up to this room and a pair of barricaded **iron 
 > **Ghoul**
 >
 > **Hit Points** 2, **Guard**: 10, **Power**: 12, **Attacks**: Claw (-2 HP), **Move**: as human
+
+# 22 EXIT STAIRS
+
+Stairs ascend north. The light of day shines from above. 
+
+* Leads to the plaza beside [The White Temple](#the-white-temple). 
