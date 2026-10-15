@@ -1,14 +1,17 @@
 ---
-title: "🐑 Lair of the Lamb: One-shot edition (B/X)"
+title: "🐑 Lair of the Lamb: One-shot edition (OSE)"
 description: "Survival horror funnel adventure."
-nav_order: 5
+parent: "🐑 Lair of the Lamb: One-Shot Edition"
+nav_order: 2
 ---
 
-# Lair of the Lamb: One-shot edition
+# Lair of the Lamb: One-shot edition (OSE)
 
 {: .no_toc }
 
 SURVIVAL HORROR FUNNEL ADVENTURE FOR ZERO-LEVEL CHARACTERS
+
+Requires *[Old-School Essentials](/docs/ose-rules/)* to play.
 
 Version 1.1 - October 2026
 
@@ -23,6 +26,8 @@ An adventure by [Arnold K](https://goblinpunch.blogspot.com/)—shared and cared
 Lamb sketched by [Luke Stratton](https://www.limithron.com/) during the playtest at Gary Con 2024.
 
 Playtesters: Ben Milton, Gavin Norman, Frank Sokolowski, Luke Stratton, SirFinnegan, DustyHalo, Dwiz, Andrew Swedberg, Eric McConaghy, Trollfinger
+
+*Old-School Essentials* is a trademark of Necrotic Gnome. The trademark and *Old-School Essentials* logo are used with permission of Necrotic Gnome, under license.
 
 # The Pitch
 
@@ -99,7 +104,7 @@ STRENGTH IS HOLY. SIZE IS SACRED.
 
 1. Roll or pick a background.
 2. Roll 2d6 in order for each of your attributes: Strength, Intelligence, Wisdom, Dexterity, Constitution, Charisma
-3. Peasants use the "Normal Human (NH)" [attack matrix](/docs/ose-rules/adventures/combat-tables#attack-matrix) (20 [-1]) and [saving throws](/docs/ose-rules/adventures/combat-tables#attack-matrix) (D14, W15, P16, B17, S18). 
+3. Peasants each have 1 hit point and use the "Normal Human (NH)" [attack matrix](/docs/ose-rules/adventures/combat-tables#attack-matrix) (20 [-1]) and [saving throws](/docs/ose-rules/adventures/combat-tables#attack-matrix) (D14, W15, P16, B17, S18). 
 4. Name your character.
 5. Characters start [dehydrated](#dehydration)—write that down.
 
@@ -260,6 +265,16 @@ Each square on the map is 10' by 10'. The rough-hewn stone walls are easily clim
 
 
 
+## Player VTT Map
+
+{: .note-title .callout }
+
+> Suggestion
+>
+> This adventure plays great using theater of the mind and a volunteer player mapper. If you'd still like to use a map with a virtual tabletop, here's a map without spoilers.
+
+[![lair-player-vtt-map](/assets/images/lair-of-the-lamb-one-shot-edition/lair-player-vtt-map.png)](/assets/images/lair-of-the-lamb-one-shot-edition/lair-player-vtt-map.png)
+
 # Starting the Game
 
 {: .note-title .callout }
@@ -411,8 +426,8 @@ A **throne** of sheep bones and unfired clay. Two **skeletons** stand beside the
 
 **Throne**: Anyone sitting on the throne must make a save versus Spells.
 
-* Success: Right hand turns into a large lobster claw (2 hits).
-* Failure (Obesity): Gain 3 Inventory slots of fat. Right hand turns into a small lobster claw (1 hit).
+* Success: Right hand turns into a large lobster claw (1d8 damage).
+* Failure (Obesity): Gain 3 Inventory slots of fat. Right hand turns into a small lobster claw (1d6 damage).
 * Regardless of success or failure, you get a vision of a purple book, wrapped in fine copper chains.
 * The throne only works once per year.
 
