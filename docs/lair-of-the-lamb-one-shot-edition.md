@@ -18,7 +18,7 @@ Shared under CC BY-NC-SA 3.0 license.
 
 # Credits
 
-An adventure by [Arnold K.](https://goblinpunch.blogspot.com/) shared and cared for and given a spin with some words and ideas and a different presentation (with love) by [directsun](https://puzzledungeon.com)
+An adventure by [Arnold K](https://goblinpunch.blogspot.com/)—shared and cared for and given a spin with some words and ideas and a different presentation (with love) by [directsun](https://puzzledungeon.com)
 
 Lamb sketched by [Luke Stratton](https://www.limithron.com/) during the playtest at Gary Con 2024.
 
@@ -375,7 +375,23 @@ Here are the types of Lambfruit (and how many of each type are currently hanging
 
 Each square on the map is 10' by 10'. The rough-hewn stone walls are easily climbed when not under duress ([d20 roll](#player-dice-rolls) otherwise). There is no light in the dungeon unless otherwise indicated.
 
-[![3-lair-map-edited](/assets/images/lair-of-the-lamb-one-shot-edition/3-lair-map-edited.png)](/assets/images/lair-of-the-lamb-one-shot-edition/3-lair-map-edited.png)
+
+
+{::nomarkdown}
+<img
+  class="jil-map-image"
+  src="/assets/images/lair-of-the-lamb-one-shot-edition/5-lair-map-edited.png"
+  alt="Lair of the Lamb"
+  loading="lazy"
+  data-jil-title="Lair of the Lamb"
+  data-jil-regions="assets/maps/lair-of-the-lamb-one-shot-edition.yml"
+  data-jil-viewer="true"
+  data-jil-inline="true"
+  data-jil-labels="false"
+/>
+{:/nomarkdown}
+
+
 
 # Starting the Game
 
