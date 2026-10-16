@@ -13,7 +13,7 @@ SURVIVAL HORROR FUNNEL ADVENTURE FOR ZERO-LEVEL CHARACTERS
 
 Version 1.1 - October 2026
 
-Shared under CC BY-NC-SA 3.0 license.
+Shared under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode.en) license.
 
 [![](/assets/images/lair-of-the-lamb-one-shot-edition/the-lamb-luke.png)](/assets/images/lair-of-the-lamb-one-shot-edition/the-lamb-luke.png)
 

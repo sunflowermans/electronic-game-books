@@ -15,7 +15,13 @@ Requires *[Old-School Essentials](/docs/ose-rules/)* to play.
 
 Version 1.1 - October 2026
 
-Shared under CC BY-NC-SA 3.0 license.
+Shared under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode.en) license.
+
+{: .highlight .callout}
+
+> Looking for the Don't Worry About It version?
+>
+> <span class="fs-8">[🐑 DWAIT version](https://dwait.puzzledungeon.com/){: .btn .btn-purple }</span>
 
 [![](/assets/images/lair-of-the-lamb-one-shot-edition/the-lamb-luke.png)](/assets/images/lair-of-the-lamb-one-shot-edition/the-lamb-luke.png)
 
