@@ -1,0 +1,189 @@
+height: 2170
+width: 3150
+regions:
+  - href: "#1-bowls"
+    title: "1 BOWLS"
+    points:
+      - [220, 570]
+      - [417, 570]
+      - [420, 765]
+      - [211, 762]
+  - href: "#3-vinegar"
+    title: "3 VINEGAR"
+    points:
+      - [504, 570]
+      - [690, 570]
+      - [690, 765]
+      - [495, 762]
+  - href: "#5-landing"
+    title: "5 LANDING"
+    points:
+      - [782, 718]
+      - [771, 896]
+      - [1116, 899]
+      - [1108, 707]
+  - href: "#8-pit"
+    title: "8 PIT"
+    points:
+      - [1606, 718]
+      - [1594, 1032]
+      - [1263, 1049]
+      - [1269, 712]
+  - href: "#9-fountain"
+    title: "9 FOUNTAIN"
+    points:
+      - [1263, 217]
+      - [1611, 223]
+      - [1608, 554]
+      - [1274, 556]
+  - href: "#1a-first-intersection"
+    title: "1A"
+    points:
+      - [289, 835]
+      - [342, 840]
+      - [342, 904]
+      - [295, 910]
+  - href: "#1b-second-intersection"
+    title: "1B"
+    points:
+      - [562, 846]
+      - [626, 840]
+      - [634, 904]
+      - [568, 904]
+  - href: "#2-goats"
+    title: "2 GOATS"
+    points:
+      - [217, 990]
+      - [409, 993]
+      - [417, 1188]
+      - [220, 1182]
+  - href: "#4-chests"
+    title: "4 CHESTS"
+    points:
+      - [490, 982]
+      - [698, 982]
+      - [693, 1177]
+      - [493, 1182]
+  - href: "#5a-closet"
+    title: "5A CLOSET"
+    points:
+      - [1121, 707]
+      - [1124, 765]
+      - [1180, 760]
+      - [1185, 709]
+  - href: "#6-fish"
+    title: "6 FISH"
+    points:
+      - [854, 990]
+      - [1044, 993]
+      - [1038, 1180]
+      - [852, 1180]
+  - href: "#7-throne"
+    title: "7 THRONE"
+    points:
+      - [846, 1271]
+      - [1046, 1277]
+      - [1044, 1461]
+      - [846, 1463]
+  - href: "#10-bone-pile"
+    title: "10 BONE PILE"
+    points:
+      - [1341, 1118]
+      - [1528, 1127]
+      - [1542, 1324]
+      - [1333, 1324]
+  - href: "#14-sarcophagus"
+    title: "14 SARCOPHAGUS"
+    points:
+      - [1330, 1474]
+      - [1542, 1472]
+      - [1533, 1664]
+      - [1338, 1669]
+  - href: "#11-comet-mural"
+    title: "11 COMET MURAL"
+    points:
+      - [1692, 785]
+      - [1876, 782]
+      - [1881, 974]
+      - [1689, 968]
+  - href: "#12-mouth-mural"
+    title: "12 MOUTH MURAL"
+    points:
+      - [1684, 1132]
+      - [1881, 1130]
+      - [1887, 1319]
+      - [1684, 1316]
+  - href: "#13-city-mural"
+    title: "13 CITY MURAL"
+    points:
+      - [1689, 1480]
+      - [1881, 1474]
+      - [1887, 1672]
+      - [1681, 1672]
+  - href: "#15-crack"
+    title: "15 CRACK"
+    points:
+      - [1753, 1694]
+      - [1806, 1697]
+      - [1812, 1814]
+      - [1745, 1819]
+      - [1745, 1889]
+      - [1681, 1872]
+      - [1686, 1755]
+      - [1753, 1758]
+  - href: "#16-mold"
+    title: "16 MOLD"
+    points:
+      - [1965, 1480]
+      - [2157, 1483]
+      - [2165, 1675]
+      - [1967, 1678]
+  - href: "#17-altar"
+    title: "17 ALTAR"
+    points:
+      - [1973, 1758]
+      - [2170, 1761]
+      - [2162, 1947]
+      - [1953, 1953]
+  - href: "#18-shaft"
+    title: "18 SHAFT"
+    points:
+      - [2457, 1477]
+      - [2649, 1477]
+      - [2655, 1669]
+      - [2452, 1672]
+  - href: "#18a-ledge"
+    title: "18A LEDGE"
+    points:
+      - [2735, 1477]
+      - [2794, 1483]
+      - [2797, 1672]
+      - [2724, 1675]
+  - href: "#19-priests"
+    title: "19 PRIESTS"
+    points:
+      - [1973, 779]
+      - [2157, 782]
+      - [2162, 977]
+      - [1962, 965]
+  - href: "#20-pools"
+    title: "20 POOLS"
+    points:
+      - [1965, 495]
+      - [2154, 501]
+      - [2162, 696]
+      - [1962, 696]
+  - href: "#21-heavy-doors"
+    title: "21 HEAVY DOORS"
+    points:
+      - [2454, 776]
+      - [2646, 779]
+      - [2660, 968]
+      - [2454, 968]
+  - href: "#22-exit-stairs"
+    title: "22 EXIT STAIRS"
+    points:
+      - [2738, 228]
+      - [2794, 220]
+      - [2802, 832]
+      - [2733, 832]

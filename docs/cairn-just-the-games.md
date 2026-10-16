@@ -1,7 +1,7 @@
 ---
 title: 🔥 Cairn - Just The Games
 description: Cairn rules and adventures running with Just The Games.
-nav_order: 4
+nav_order: 5
 has_children: true
 ---
 # Cairn - Just The Games
