@@ -5,7 +5,9 @@ nav_order: 4
 has_children: true
 ---
 # Lair of the Lamb: One Shot Edition
-<span class="fs-8">[🐑 DWAIT version](https://cairn.puzzledungeon.com/a-familiar-tower-cairn/){: .btn .btn-purple }</span> <span class="fs-8">[🐑 OSE version](https://cairn.puzzledungeon.com/a-familiar-tower-cairn/){: .btn .btn-green }</span>
+{: .no_toc }
+
+<span class="fs-8">[🐑 DWAIT version](https://dwait.puzzledungeon.com/){: .btn .btn-purple }</span> <span class="fs-8">[🐑 OSE version](/docs/lair-of-the-lamb-one-shot-edition/lair-of-the-lamb-one-shot-edition-ose/){: .btn .btn-green }</span>
 
 *Lair of the Lamb* is 0-level survival horror adventure released by **Arnold K** in April of 2020 under [Creative Commons SA NC 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode.en). The original versions ([4/13/2020](https://goblinpunch.blogspot.com/2020/04/lair-of-lamb.html) and [4/24/2020 [Final]](https://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) are available on his blog, [Goblin Punch](https://goblinpunch.blogspot.com/). Both versions are great.
 
