@@ -21,7 +21,7 @@ Shared under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0
 
 > Looking for the Don't Worry About It version?
 >
-> <span class="fs-8">[🐑 DWAIT version](https://dwait.puzzledungeon.com/){: .btn .btn-purple }</span>
+>[🐑 DWAIT version](https://dwait.puzzledungeon.com/){: .btn .btn-purple }
 
 [![](/assets/images/lair-of-the-lamb-one-shot-edition/the-lamb-luke.png)](/assets/images/lair-of-the-lamb-one-shot-edition/the-lamb-luke.png)
 

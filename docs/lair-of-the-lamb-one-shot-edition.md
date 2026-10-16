@@ -22,7 +22,7 @@ has_children: true
 
 directsun here, hello 👋. I have been running Lair of the Lamb as a one-shot for several years. What I run has a little bit from both versions and my own house rules and twist. In true spirit to the original work, I've released two versions.
 
-The first could be considered a capsule game. It includes all the rules I use when I run the adventure. It's a variation of my ultra-lite system [*Don't Worry About It*](https://puzzledungeon.com/dont-worry-about-it/) (**DWAIT**). I've also created a version of Lamb for [*Old School Essentials*](/docs/ose-rules) (**OSE**)—also completely playable (with internal links to all the rules you'll need). While I personally feel that *Lair of the Lamb* gets a lot of juice from the lightest rules, I included both versions since the OSE stats more closely resemble what every other adventure from the past 50 years looks like. I want to make it as easy as I can for folks to take this and make it their own, like I have. Here are the [markdown source files]() and here are some guides for [standing up your own version of this website](/docs/make-your-own).
+The first could be considered a capsule game. It includes all the rules I use when I run the adventure. It's a variation of my ultra-lite system [*Don't Worry About It*](https://puzzledungeon.com/dont-worry-about-it/) (**DWAIT**). I've also created a version of Lamb for [*Old School Essentials*](/docs/ose-rules) (**OSE**)—also completely playable (with internal links to all the rules you'll need). While I personally feel that *Lair of the Lamb* gets a lot of juice from the lightest rules, I included both versions since the OSE stats more closely resemble what every other adventure from the past 50 years looks like. I want to make it as easy as I can for folks to take this and make it their own, like I have. Here are the [markdown source files](https://github.com/sunflowermans/electronic-game-books/blob/main/docs/lair-of-the-lamb-one-shot-edition/lair-of-the-lamb-one-shot-edition-ose.md) and here are some guides for [standing up your own version of this website](/docs/make-your-own).
 
 Before you toss your players into the cold dark dungeon, I want to quote Arnold from one of his original posts on *Lair of the Lamb*:
 
@@ -32,4 +32,4 @@ Before you toss your players into the cold dark dungeon, I want to quote Arnold 
 >
 > Happy crawling!
 
-<span class="fs-8">[🐑 DWAIT version](https://cairn.puzzledungeon.com/a-familiar-tower-cairn/){: .btn .btn-purple }</span> <span class="fs-8">[🐑 OSE version](https://cairn.puzzledungeon.com/a-familiar-tower-cairn/){: .btn .btn-green }</span>
+<span class="fs-8">[🐑 DWAIT version](https://dwait.puzzledungeon.com/){: .btn .btn-purple }</span> <span class="fs-8">[🐑 OSE version](/docs/lair-of-the-lamb-one-shot-edition/lair-of-the-lamb-one-shot-edition-ose/){: .btn .btn-green }</span>
