@@ -573,7 +573,7 @@ An **altar** holds a sheep skull amid faded flowers. A **wooden chest** sags wit
 
 **High Ceiling**: Terminates 60' above.
 
-* 40' up is a loop of rope that stretches another 10' connecting to [18A LEDGE](18a-ledge).
+* 40' up is a loop of rope that stretches another 10' connecting to [18A LEDGE](#18a-ledge).
 
 # 18A LEDGE
 
