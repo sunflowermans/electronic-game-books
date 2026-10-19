@@ -110,7 +110,7 @@ STRENGTH IS HOLY. SIZE IS SACRED.
 
 1. Roll or pick a background.
 2. Roll 2d6 in order for each of your attributes: Strength, Intelligence, Wisdom, Dexterity, Constitution, Charisma
-3. Peasants each have 1 hit point and use the "Normal Human (NH)" [attack matrix](/docs/ose-rules/adventures/combat-tables#attack-matrix) (20 [-1]) and [saving throws](/docs/ose-rules/adventures/combat-tables#attack-matrix) (D14, W15, P16, B17, S18). 
+3. Peasants each have 1 hit point and use the "Normal Human (NH)" [attack matrix](/docs/ose-rules/adventures/combat-tables#attack-matrix) (20 [-1]) and [saving throws](/docs/ose-rules/adventures/combat-tables#monster-saving-throws) (D14, W15, P16, B17, S18). 
 4. Name your character.
 5. Characters start [dehydrated](#dehydration)—write that down.
 
