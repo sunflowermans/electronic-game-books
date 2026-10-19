@@ -527,7 +527,7 @@ A mural of a city under waves and a looming giant crab. A huge **crack** runs do
 
 A **stone sarcophagus**. A crawl tunnel near the base of the north wall.
 
-* **Stone Sarcophagus**: The heavy lid can be pushed aside by at least 3 people, but it makes noise ([random encounter](#random-encounter)).
+* **Stone Sarcophagus**: The heavy lid can be pushed aside by at least 3 people, but it makes noise ([random encounter](#random-encounters)).
   * Inside is a shriveled corpse without any hands. On its chest are a pearl ring (100s) and a black pearl ring (200s).
 
 # 15 CRACK
