@@ -71,7 +71,7 @@ GEM
       nokogiri (>= 1.14)
     jekyll-hover-popup (0.3.3)
       jekyll (>= 3.7, < 5.0)
-    jekyll-image-links (0.3.1)
+    jekyll-image-links (0.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-include-cache (0.3.1)
       jekyll (>= 3.7, < 5.0)
@@ -208,7 +208,7 @@ CHECKSUMS
   jekyll (4.4.1) sha256=4c1144d857a5b2b80d45b8cf5138289579a9f8136aadfa6dd684b31fe2bc18c1
   jekyll-dice-tray (0.5.1) sha256=59e7966d39a390372da97c8ead04c47e1ffc1c54c062dbb8ebc228fee05a13c8
   jekyll-hover-popup (0.3.3) sha256=922eed72281f0553274a57068182fb0ff30041c80725c88d27959c6d69dca2cf
-  jekyll-image-links (0.3.1) sha256=da0646782c6a08883130224758e63469df2adcd9ba37693284ea8b5ff3a40882
+  jekyll-image-links (0.4.0) sha256=0df527f86f30765f3dd6eeda40fcf1bd01f4b0559582eb0099aa9d64fa6d119c
   jekyll-include-cache (0.3.1) sha256=4ba9c00b05247245420656dc313826ca761c4e0b13c0976ad298225f9f7792d3
   jekyll-jtd-toc-nav (0.3.0) sha256=f8c556a292cdbb7be476dcb13c9cc09c5a6c73fb90bbb86412c9670fd6456e03
   jekyll-redirect-from (0.17.0) sha256=703dab0428b20bb5d550ab83d3c28b65bb5ecc0f734c5e61ee680de391b3e897
