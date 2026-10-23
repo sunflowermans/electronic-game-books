@@ -66,7 +66,7 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-dice-tray (0.5.1)
+    jekyll-dice-tray (0.6.0)
       jekyll (>= 3.7, < 5.0)
       nokogiri (>= 1.14)
     jekyll-hover-popup (0.3.3)
@@ -206,7 +206,7 @@ CHECKSUMS
   http_parser.rb (0.8.1) sha256=9ae8df145b39aa5398b2f90090d651c67bd8e2ebfe4507c966579f641e11097a
   i18n (1.15.2) sha256=00f9eb62412fe593b2a65a97daa75300d37abb8f7202ec748e94b6d46a9dd1b5
   jekyll (4.4.1) sha256=4c1144d857a5b2b80d45b8cf5138289579a9f8136aadfa6dd684b31fe2bc18c1
-  jekyll-dice-tray (0.5.1) sha256=59e7966d39a390372da97c8ead04c47e1ffc1c54c062dbb8ebc228fee05a13c8
+  jekyll-dice-tray (0.6.0) sha256=9e01e47b8ea874638035aeb09a1549578e89257f4b82a3996b5daa93f4140088
   jekyll-hover-popup (0.3.3) sha256=922eed72281f0553274a57068182fb0ff30041c80725c88d27959c6d69dca2cf
   jekyll-image-links (0.4.0) sha256=0df527f86f30765f3dd6eeda40fcf1bd01f4b0559582eb0099aa9d64fa6d119c
   jekyll-include-cache (0.3.1) sha256=4ba9c00b05247245420656dc313826ca761c4e0b13c0976ad298225f9f7792d3
