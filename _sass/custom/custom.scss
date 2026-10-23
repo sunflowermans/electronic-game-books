@@ -1,3 +1,10 @@
+html {
+  /* Mitigation for bug with anchor tags langing at the wrong position for long pages
+   Does not seem to work with the backstack
+   https://github.com/just-the-docs/just-the-docs/issues/1574 */
+  scroll-behavior: auto !important;
+}
+
 .read-aloud {
   color: #e7a9da;
 }
